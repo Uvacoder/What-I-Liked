@@ -2,6 +2,9 @@
 Blog post, articles which read and I like on daily basis.
 
 
+
+### January 22, 2020 
+- [Developer Tools to Increase Your Productivity - Better Programming - Medium](https://medium.com/better-programming/developer-tools-to-increase-your-productivity-6f4ec0c96dd9) 
 ### January 21, 2020 
 - [How to use computed properties in Vue - JavaScript in Plain English - Medium](https://medium.com/javascript-in-plain-english/real-life-use-cases-for-computed-properties-in-vue-js-5fdeecbeb3b3) 
 - [20 Things In Life That Are Just Not Worth It - The Startup - Medium](https://medium.com/swlh/20-things-in-life-that-are-just-not-worth-it-2e44a377ba62) 
