@@ -7,6 +7,7 @@ Blog post, articles which read and I like on daily basis.
 ### January 26, 2020 
 - [Why JavaScript should be your first Programming language](https://medium.com/frontendshortcut/why-javascript-should-be-your-first-programming-language-cdf1d7108f86) 
 - [Re-imagining the UX of Uber Eats - Prem Pradeep - Medium](https://medium.com/@prempradeep/re-imagining-the-ux-of-uber-eats-ddca2c8250a5) 
+- [100 days of illustrations — Part I - Prem Pradeep - Medium](https://medium.com/@prempradeep/100-days-of-graphic-design-im-half-way-through-26385de429d3) 
 ### January 22, 2020 
 - [Developer Tools to Increase Your Productivity - Better Programming - Medium](https://medium.com/better-programming/developer-tools-to-increase-your-productivity-6f4ec0c96dd9) 
 ### January 21, 2020 
