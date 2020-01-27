@@ -4,6 +4,9 @@ Blog post, articles which read and I like on daily basis.
 
 
 
+
+### January 27, 2020 
+- [Don’t sell your portfolio — sell yourself - UX Collective](https://uxdesign.cc/dont-sell-your-portfolio-sell-yourself-fa067496170d) 
 ### January 26, 2020 
 - [Why JavaScript should be your first Programming language](https://medium.com/frontendshortcut/why-javascript-should-be-your-first-programming-language-cdf1d7108f86) 
 - [Re-imagining the UX of Uber Eats - Prem Pradeep - Medium](https://medium.com/@prempradeep/re-imagining-the-ux-of-uber-eats-ddca2c8250a5) 
