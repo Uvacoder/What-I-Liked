@@ -8,6 +8,7 @@ Blog post, articles which read and I like on daily basis.
 
 ### January 29, 2020 
 - [Beginning your Web Development Journey? Start Here.](https://medium.com/hackernoon/beginning-your-web-development-journey-start-here-7084346f5762) 
+- [ES6 Destructuring: The Complete Guide - codeburst](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f) 
 ### January 27, 2020 
 - [Don’t sell your portfolio — sell yourself - UX Collective](https://uxdesign.cc/dont-sell-your-portfolio-sell-yourself-fa067496170d) 
 ### January 26, 2020 
