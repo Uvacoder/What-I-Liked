@@ -5,6 +5,9 @@ Blog post, articles which read and I like on daily basis.
 
 
 
+
+### January 29, 2020 
+- [Beginning your Web Development Journey? Start Here.](https://medium.com/hackernoon/beginning-your-web-development-journey-start-here-7084346f5762) 
 ### January 27, 2020 
 - [Don’t sell your portfolio — sell yourself - UX Collective](https://uxdesign.cc/dont-sell-your-portfolio-sell-yourself-fa067496170d) 
 ### January 26, 2020 
