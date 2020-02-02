@@ -6,6 +6,9 @@ Blog post, articles which read and I like on daily basis.
 
 
 
+
+### February 2, 2020 
+- [Starting a Career in Web Development - Insightful Software](https://blog.envylabs.com/starting-a-career-in-web-development-c03c972195ca) 
 ### January 29, 2020 
 - [Beginning your Web Development Journey? Start Here.](https://medium.com/hackernoon/beginning-your-web-development-journey-start-here-7084346f5762) 
 - [ES6 Destructuring: The Complete Guide - codeburst](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f) 
