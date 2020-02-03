@@ -7,6 +7,9 @@ Blog post, articles which read and I like on daily basis.
 
 
 
+
+### February 3, 2020 
+- [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261) 
 ### February 2, 2020 
 - [Starting a Career in Web Development - Insightful Software](https://blog.envylabs.com/starting-a-career-in-web-development-c03c972195ca) 
 ### January 29, 2020 
