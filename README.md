@@ -11,6 +11,7 @@ Blog post, articles which read and I like on daily basis.
 
 ### February 6, 2020 
 - [Why Samsung’s OneUI is a piece of art - UX Collective](https://uxdesign.cc/why-samsungs-oneui-is-a-piece-of-art-60b507ae2f5f) 
+- [I never understood JavaScript closures - DailyJS - Medium](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8) 
 ### February 3, 2020 
 - [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261) 
 - [Encapsulation in JavaScript - JavaScript Scene - Medium](https://medium.com/javascript-scene/encapsulation-in-javascript-26be60e325b4) 
