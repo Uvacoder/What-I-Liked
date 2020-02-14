@@ -9,6 +9,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### February 14, 2020 
+- [Coding interview roadmap: How to develop a foolproof interview study plan - Byte by Byte](https://www.byte-by-byte.com/interview-roadmap/) 
 ### February 6, 2020 
 - [Why Samsung’s OneUI is a piece of art - UX Collective](https://uxdesign.cc/why-samsungs-oneui-is-a-piece-of-art-60b507ae2f5f) 
 - [I never understood JavaScript closures - DailyJS - Medium](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8) 
