@@ -14,6 +14,7 @@ Blog post, articles which I read and like on my daily basis.
 - [Coding interview roadmap: How to develop a foolproof interview study plan - Byte by Byte](https://www.byte-by-byte.com/interview-roadmap/) 
 - [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university) 
 - [How to get off the couch and study for your coding interview - Byte by Byte](https://www.byte-by-byte.com/stop-procrastinating/) 
+- [Declare Your Love Like a Programmer ❤️](https://www.freecodecamp.org/news/send-a-romantic-message-every-hour-to-your-valentine/) 
 ### February 6, 2020 
 - [Why Samsung’s OneUI is a piece of art - UX Collective](https://uxdesign.cc/why-samsungs-oneui-is-a-piece-of-art-60b507ae2f5f) 
 - [I never understood JavaScript closures - DailyJS - Medium](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8) 
