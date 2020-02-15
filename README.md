@@ -10,6 +10,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### February 16, 2020 
+- [30 Days of Vue - Methods and Computed Properties - Fullstack.io - Medium](https://medium.com/fullstackio/30-days-of-vue-methods-and-computed-properties-8cc11e147081) 
 ### February 14, 2020 
 - [Coding interview roadmap: How to develop a foolproof interview study plan - Byte by Byte](https://www.byte-by-byte.com/interview-roadmap/) 
 - [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university) 
