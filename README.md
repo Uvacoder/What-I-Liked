@@ -15,6 +15,7 @@ Blog post, articles which I read and like on my daily basis.
 - [30 Days of Vue - Methods and Computed Properties - Fullstack.io - Medium](https://medium.com/fullstackio/30-days-of-vue-methods-and-computed-properties-8cc11e147081) 
 - [How I went from 33-year-old museum tour guide to professional Web Developer and UX Designer: My 18-month coding journey](https://medium.com/free-code-camp/the-post-i-hoped-to-write-for-18-months-2902d074f5ba) 
 - [JavaScript for absolute beginners - JavaScript in Plain English - Medium](https://medium.com/javascript-in-plain-english/javascript-for-absolute-beginners-519dca78ce4a) 
+- [From Cold Email to Internship with Jason Chen - Justine and Olivia Moore - Medium](https://medium.com/@justinemoore_85088/from-cold-email-to-internship-with-jason-chen-1cff6d560ae3) 
 ### February 14, 2020 
 - [Coding interview roadmap: How to develop a foolproof interview study plan - Byte by Byte](https://www.byte-by-byte.com/interview-roadmap/) 
 - [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university) 
