@@ -14,6 +14,7 @@ Blog post, articles which I read and like on my daily basis.
 
 ### February 17, 2020 
 - [I redesigned the infamous IOWA App in 30 minutes - UX Collective](https://uxdesign.cc/i-redesigned-the-infamous-iowa-app-in-30-minutes-478a7ae7ffc8) 
+- [Top 10 Elon Musk Productivity Secrets for Insane Success](https://medium.com/swlh/top-10-elon-musk-productivity-secrets-for-insane-success-dae584c88e03) 
 ### February 16, 2020 
 - [30 Days of Vue - Methods and Computed Properties - Fullstack.io - Medium](https://medium.com/fullstackio/30-days-of-vue-methods-and-computed-properties-8cc11e147081) 
 - [How I went from 33-year-old museum tour guide to professional Web Developer and UX Designer: My 18-month coding journey](https://medium.com/free-code-camp/the-post-i-hoped-to-write-for-18-months-2902d074f5ba) 
