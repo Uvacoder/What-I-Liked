@@ -12,6 +12,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### February 18, 2020 
+- [Git repository for designers as you’ve never seen: Abstract (+ Sketch)](https://blog.prototypr.io/git-repository-for-designers-abstract-sketch-9138cf6ab9b1) 
 ### February 17, 2020 
 - [I redesigned the infamous IOWA App in 30 minutes - UX Collective](https://uxdesign.cc/i-redesigned-the-infamous-iowa-app-in-30-minutes-478a7ae7ffc8) 
 - [Top 10 Elon Musk Productivity Secrets for Insane Success](https://medium.com/swlh/top-10-elon-musk-productivity-secrets-for-insane-success-dae584c88e03) 
