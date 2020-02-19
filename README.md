@@ -13,6 +13,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### February 19, 2020 
+- [Build a website using Nuxt & Contentful — A step by step guide](https://medium.com/js-dojo/build-a-website-using-nuxt-contentful-a-step-by-step-guide-b75217ccdfa) 
 ### February 18, 2020 
 - [Git repository for designers as you’ve never seen: Abstract (+ Sketch)](https://blog.prototypr.io/git-repository-for-designers-abstract-sketch-9138cf6ab9b1) 
 - [New Developer? You should’ve learned Git yesterday.](https://codeburst.io/number-one-piece-of-advice-for-new-developers-ddd08abc8bfa) 
