@@ -14,6 +14,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### February 20, 2020 
+- [How I convinced an employer to take a chance on me and pay me to learn to code.](https://www.freecodecamp.org/news/getting-your-first-developer-job-whats-the-best-way-1737d0bcba7a/) 
 ### February 19, 2020 
 - [Build a website using Nuxt & Contentful — A step by step guide](https://medium.com/js-dojo/build-a-website-using-nuxt-contentful-a-step-by-step-guide-b75217ccdfa) 
 ### February 18, 2020 
