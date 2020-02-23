@@ -18,6 +18,7 @@ Blog post, articles which I read and like on my daily basis.
 
 ### February 23, 2020 
 - [Feeling overwhelmed in UX? Start a sprint - UX Planet](https://uxplanet.org/feeling-overwhelmed-in-ux-start-a-sprint-66cf9f2d2ef1) 
+- [100 example UX problems - UX Collective](https://uxdesign.cc/100-example-ux-problems-f90e7f61dd9f) 
 ### February 20, 2020 
 - [How I convinced an employer to take a chance on me and pay me to learn to code.](https://www.freecodecamp.org/news/getting-your-first-developer-job-whats-the-best-way-1737d0bcba7a/) 
 ### February 19, 2020 
