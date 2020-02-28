@@ -19,6 +19,7 @@ Blog post, articles which I read and like on my daily basis.
 
 ### February 28, 2020 
 - [15 Web Developer Portfolios to Inspire You](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/) 
+- [Matt Farley | Designer, Front-end Developer & Mentor](https://mattfarley.ca/) 
 ### February 23, 2020 
 - [Feeling overwhelmed in UX? Start a sprint - UX Planet](https://uxplanet.org/feeling-overwhelmed-in-ux-start-a-sprint-66cf9f2d2ef1) 
 - [100 example UX problems - UX Collective](https://uxdesign.cc/100-example-ux-problems-f90e7f61dd9f) 
