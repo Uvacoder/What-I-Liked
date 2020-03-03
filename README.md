@@ -20,6 +20,7 @@ Blog post, articles which I read and like on my daily basis.
 
 ### March 3, 2020 
 - [How to deploy your app to the web using Express.js and Heroku](https://www.freecodecamp.org/news/how-to-deploy-your-site-using-express-and-heroku/) 
+- [How to build an Event Booking App using HTML, CSS, JavaScript, and Firebase?](https://www.freecodecamp.org/news/how-to-build-an-event-booking-app-using-html-css-javascript-and-firebase/) 
 ### February 28, 2020 
 - [15 Web Developer Portfolios to Inspire You](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/) 
 - [Matt Farley | Designer, Front-end Developer & Mentor](https://mattfarley.ca/) 
