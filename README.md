@@ -23,6 +23,7 @@ Blog post, articles which I read and like on my daily basis.
 - [Android App Reverse Engineering 101 | Learn to reverse engineer Android applications!](https://maddiestone.github.io/AndroidAppRE/) 
 - [610 Free Online Programming & Computer Science Courses You Can Start This March](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) 
 - [Switching Careers and Learning in Public with Tania Rascia](https://egghead.io/podcasts/switching-careers-and-learning-in-public-with-tania-rascia) 
+- [Learn In Public: The fastest way to learn](https://www.swyx.io/writing/learn-in-public/) 
 ### March 3, 2020 
 - [How to deploy your app to the web using Express.js and Heroku](https://www.freecodecamp.org/news/how-to-deploy-your-site-using-express-and-heroku/) 
 - [How to build an Event Booking App using HTML, CSS, JavaScript, and Firebase?](https://www.freecodecamp.org/news/how-to-build-an-event-booking-app-using-html-css-javascript-and-firebase/) 
