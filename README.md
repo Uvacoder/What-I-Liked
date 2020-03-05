@@ -19,6 +19,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### March 6, 2020 
+- [The Ultimate Hack for Learning In Public: Pick Up What They Put Down](https://www.swyx.io/writing/learn-in-public-hack/) 
 ### March 5, 2020 
 - [Android App Reverse Engineering 101 | Learn to reverse engineer Android applications!](https://maddiestone.github.io/AndroidAppRE/) 
 - [610 Free Online Programming & Computer Science Courses You Can Start This March](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) 
