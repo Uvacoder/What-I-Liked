@@ -19,6 +19,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### March 6, 2020 
+- [swyx Speaking | You Can Learn A Lot For The Low Price Of Your Ego](https://www.swyx.io/speaking/kentcdodds-podcast/) 
 ### March 5, 2020 
 - [Android App Reverse Engineering 101 | Learn to reverse engineer Android applications!](https://maddiestone.github.io/AndroidAppRE/) 
 - [610 Free Online Programming & Computer Science Courses You Can Start This March](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) 
