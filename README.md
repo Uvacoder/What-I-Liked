@@ -24,6 +24,7 @@ Blog post, articles which I read and like on my daily basis.
 - [The Ultimate Hack for Learning In Public: Pick Up What They Put Down](https://www.swyx.io/writing/learn-in-public-hack/) 
 - [How to go from coding tutorials to building your own projects](https://medium.com/free-code-camp/how-to-go-from-coding-tutorials-to-building-your-own-projects-b9ab51074980) 
 - [25 most popular google fonts — 2020 - UX Planet](https://uxplanet.org/25-most-popular-google-fonts-2020-aac4deb62d48) 
+- [Best Figma plugins for 2020 which deserve your attention](https://uxdesign.cc/best-figma-plugins-for-2020-which-deserve-your-attention-d542cc56aee0) 
 ### March 5, 2020 
 - [Android App Reverse Engineering 101 | Learn to reverse engineer Android applications!](https://maddiestone.github.io/AndroidAppRE/) 
 - [610 Free Online Programming & Computer Science Courses You Can Start This March](https://www.freecodecamp.org/news/free-online-programming-cs-courses/) 
