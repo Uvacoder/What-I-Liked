@@ -20,6 +20,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### March 7, 2020 
+- [What is Cached Data? What does Clear Cache Mean and What Does it Do?](https://www.freecodecamp.org/news/what-is-cached-data/) 
 ### March 6, 2020 
 - [The Ultimate Hack for Learning In Public: Pick Up What They Put Down](https://www.swyx.io/writing/learn-in-public-hack/) 
 - [How to go from coding tutorials to building your own projects](https://medium.com/free-code-camp/how-to-go-from-coding-tutorials-to-building-your-own-projects-b9ab51074980) 
