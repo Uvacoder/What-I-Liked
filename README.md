@@ -22,6 +22,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### March 9, 2020 
+- [CS50 Beyond](https://cs50.harvard.edu/beyond/#sql) 
 ### March 8, 2020 
 - [How Is Vue Native Different From Other App Development Tools?](https://medium.com/better-programming/how-is-vue-native-different-from-other-app-development-tools-e2f3da38b2cf) 
 - [Being Honest in Job Interviews - DEV Community 👩‍💻👨‍💻](https://dev.to/zorexsalvo/being-honest-in-job-interviews-3h2c) 
