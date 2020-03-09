@@ -25,6 +25,7 @@ Blog post, articles which I read and like on my daily basis.
 
 ### March 9, 2020 
 - [CS50 Beyond](https://cs50.harvard.edu/beyond/#sql) 
+- [2 Writing Tips I Apply Every Day - The Blog Of Darius Foroux - Medium](https://medium.com/darius-foroux/2-writing-tips-i-apply-every-day-4345b644701a) 
 ### March 8, 2020 
 - [How Is Vue Native Different From Other App Development Tools?](https://medium.com/better-programming/how-is-vue-native-different-from-other-app-development-tools-e2f3da38b2cf) 
 - [Being Honest in Job Interviews - DEV Community 👩‍💻👨‍💻](https://dev.to/zorexsalvo/being-honest-in-job-interviews-3h2c) 
