@@ -27,6 +27,7 @@ Blog post, articles which I read and like on my daily basis.
 
 ### March 11, 2020 
 - [How to write a UX case study | Inside Design Blog](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/) 
+- [Food delivery App (Case Study) - UX Planet](https://uxplanet.org/food-delivery-app-case-study-27d6c7ca8add) 
 ### March 10, 2020 
 - [How to Build a Full Stack RPG Character Generator with MongoDB, Express, Vue, and Node (the MEVN Stack)](https://www.freecodecamp.org/news/build-a-full-stack-mevn-app/) 
 - [How to instantly make your front end projects look better](https://www.freecodecamp.org/news/how-to-make-your-front-end-projects/) 
