@@ -27,6 +27,7 @@ Blog post, articles which I read and like on my daily basis.
 ### March 10, 2020 
 - [How to Build a Full Stack RPG Character Generator with MongoDB, Express, Vue, and Node (the MEVN Stack)](https://www.freecodecamp.org/news/build-a-full-stack-mevn-app/) 
 - [How to instantly make your front end projects look better](https://www.freecodecamp.org/news/how-to-make-your-front-end-projects/) 
+- [Learn the Basics of Color Theory to Know What Looks Good](https://lifehacker.com/learn-the-basics-of-color-theory-to-know-what-looks-goo-1608972072) 
 ### March 9, 2020 
 - [CS50 Beyond](https://cs50.harvard.edu/beyond/#sql) 
 - [2 Writing Tips I Apply Every Day - The Blog Of Darius Foroux - Medium](https://medium.com/darius-foroux/2-writing-tips-i-apply-every-day-4345b644701a) 
