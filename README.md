@@ -25,6 +25,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### March 13, 2020 
+- [12 tips and tricks to learn how to code (because 10 was too short)](https://medium.com/@jfcauche/12-tips-and-tricks-to-learn-how-to-code-because-10-was-too-short-f4d643082138) 
 ### March 11, 2020 
 - [How to write a UX case study | Inside Design Blog](https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/) 
 - [Food delivery App (Case Study) - UX Planet](https://uxplanet.org/food-delivery-app-case-study-27d6c7ca8add) 
