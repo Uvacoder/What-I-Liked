@@ -27,6 +27,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### March 15, 2020 
+- [Fun Side Projects That You Can Build Today - Better Programming - Medium](https://medium.com/better-programming/fun-side-projects-that-you-can-build-today-553158597363) 
 ### March 14, 2020 
 - [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.com/free-code-camp/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32) 
 ### March 13, 2020 
