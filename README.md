@@ -31,6 +31,7 @@ Blog post, articles which I read and like on my daily basis.
 
 ### March 17, 2020 
 - [Applying for a full-stack position? Make sure you don’t make these 5 technical mistakes](https://medium.com/teamzerolabs/applying-for-a-full-stack-position-make-sure-you-dont-make-these-5-technical-mistakes-84288f059f9) 
+- [One year in - knowing what I don't know - DEV Community 👩‍💻👨‍💻](https://dev.to/thompsonad/one-year-in-knowing-what-i-don-t-know-2b67) 
 ### March 15, 2020 
 - [Fun Side Projects That You Can Build Today - Better Programming - Medium](https://medium.com/better-programming/fun-side-projects-that-you-can-build-today-553158597363) 
 ### March 14, 2020 
