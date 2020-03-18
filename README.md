@@ -29,6 +29,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### March 18, 2020 
+- [The Difference Between Function and Block Scope in JavaScript](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe) 
 ### March 17, 2020 
 - [Applying for a full-stack position? Make sure you don’t make these 5 technical mistakes](https://medium.com/teamzerolabs/applying-for-a-full-stack-position-make-sure-you-dont-make-these-5-technical-mistakes-84288f059f9) 
 - [One year in - knowing what I don't know - DEV Community 👩‍💻👨‍💻](https://dev.to/thompsonad/one-year-in-knowing-what-i-don-t-know-2b67) 
