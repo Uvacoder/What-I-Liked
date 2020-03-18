@@ -33,6 +33,7 @@ Blog post, articles which I read and like on my daily basis.
 
 ### March 19, 2020 
 - [Let's Dance with Django (Part #1) - DEV Community 👩‍💻👨‍💻](https://dev.to/dstarner/let-s-dance-with-django-part-1-5ek1) 
+- [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad#de83) 
 ### March 18, 2020 
 - [The Difference Between Function and Block Scope in JavaScript](https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe) 
 - [So you have ideas but lack the knowledge to build them? Just f*ing write it down. - DEV Community 👩‍💻👨‍💻](https://dev.to/tiffanyrossi/so-you-have-ideas-but-lack-the-knowledge-to-build-them-just-f-ing-write-it-down-2an9) 
