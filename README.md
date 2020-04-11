@@ -10,6 +10,7 @@ Blog post, articles which I read and like on my daily basis.
 ### April 11, 2020 
 - [Top 14 Figma recent plugins for a productivity boost while you #stayhome](https://uxdesign.cc/top-14-figma-recent-plugins-for-a-productivity-boost-while-you-stayhome-630fb0c847cf) 
 - [ES6 Cheat Sheet](https://hackernoon.com/es6-for-beginners-f98120b57414) 
+- [HTTP end everything you need to know](https://medium.com/faun/http-and-everything-you-need-to-know-about-it-8273bc224491) 
 
 
 
