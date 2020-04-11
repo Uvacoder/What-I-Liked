@@ -9,7 +9,7 @@ Blog post, articles which I read and like on my daily basis.
 
 ### April 11, 2020 
 - [Top 14 Figma recent plugins for a productivity boost while you #stayhome](https://uxdesign.cc/top-14-figma-recent-plugins-for-a-productivity-boost-while-you-stayhome-630fb0c847cf) 
-- [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad#de83) 
+- [ES6 Cheat Sheet](https://hackernoon.com/es6-for-beginners-f98120b57414) 
 
 
 
