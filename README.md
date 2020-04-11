@@ -7,8 +7,8 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
-### March 19, 2020 
-- [Let's Dance with Django (Part #1) - DEV Community 👩‍💻👨‍💻](https://dev.to/dstarner/let-s-dance-with-django-part-1-5ek1) 
+### April 11, 2020 
+- [Top 14 Figma recent plugins for a productivity boost while you #stayhome](https://uxdesign.cc/top-14-figma-recent-plugins-for-a-productivity-boost-while-you-stayhome-630fb0c847cf) 
 - [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad#de83) 
 
 
