@@ -6,16 +6,22 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+### May 17, 2020 
+- [Decoding the Front-end Interview Process](https://dev.to/emmabostian/decoding-the-front-end-interview-process-14dl) 
+
+
+
+### May 15, 2020 
+- [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi#the-questions) 
+
+
+
+
 
 ### April 11, 2020 
 - [Top 14 Figma recent plugins for a productivity boost while you #stayhome](https://uxdesign.cc/top-14-figma-recent-plugins-for-a-productivity-boost-while-you-stayhome-630fb0c847cf) 
 - [ES6 Cheat Sheet](https://hackernoon.com/es6-for-beginners-f98120b57414) 
 - [HTTP end everything you need to know](https://medium.com/faun/http-and-everything-you-need-to-know-about-it-8273bc224491) 
-
-
-
-
-
 
 
 
