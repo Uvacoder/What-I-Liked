@@ -2,7 +2,16 @@
 Blog post, articles which I read and like on my daily basis.
 
 
+### May 20, 2020 
+- [26 React+Redux Interview Questions You Should Know (in 2018)](https://dev.to/fullstackcafe/26-reactredux-interview-questions-you-should-know-in-2018-41je) 
+- [Acing the JavaScript Interview: top questions explained](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7) 
+- [How to prepare for Front End Jobs 2019! My Collection of resources](https://dev.to/oathkeeper/how-to-prepare-for-front-end-jobs-2019-my-collection-of-resources-3hb2) 
+## [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions#what-are-the-possible-ways-to-create-objects-in-javascript) 
 
+
+
+### May 18, 2020 
+- [Top 26 JavaScript Interview Questions I Wish I Knew](https://dev.to/fullstackcafe/top-26-javascript-interview-questions-i-wish-i-knew-26k1) 
 
 
 
