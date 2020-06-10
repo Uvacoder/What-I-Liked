@@ -2,8 +2,10 @@
 Blog post, articles which I read and like on my daily basis.
 
 
+### June 10, 2020 
+- [How I survived my first UX job at a startup (start-up, start up?)](https://blog.prototypr.io/how-i-survived-my-first-startup-start-up-start-up-7db3bc979c43) 
 
-### June 19, 2020 
+### June 9, 2020 
 - [When Should Early Stage Startups Hire UX Designers?](https://mindsea.com/startups-hire-designers/) 
 
 
