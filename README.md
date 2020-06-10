@@ -2,6 +2,18 @@
 Blog post, articles which I read and like on my daily basis.
 
 
+
+### June 19, 2020 
+- [When Should Early Stage Startups Hire UX Designers?](https://mindsea.com/startups-hire-designers/) 
+
+
+### June 7, 2020 
+- [Reflections from designing at a seed-stage startup](https://uxdesign.cc/reflections-from-designing-at-a-seed-stage-startup-d839cb613ed1) 
+
+
+### June 03, 2020 
+- [Are you going to be the first designer at a start-up?)](https://uxdesign.cc/are-you-going-to-be-the-first-designer-at-a-start-up-5f62357f1555) 
+
 ### May 20, 2020 
 - [26 React+Redux Interview Questions You Should Know (in 2018)](https://dev.to/fullstackcafe/26-reactredux-interview-questions-you-should-know-in-2018-41je) 
 - [Acing the JavaScript Interview: top questions explained](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7) 
