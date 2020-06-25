@@ -2,6 +2,11 @@
 Blog post, articles which I read and like on my daily basis.
 
 
+
+### June 15, 2020 
+- [Tips For Managing Design Systems)](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/) 
+
+
 ### June 10, 2020 
 - [How I survived my first UX job at a startup (start-up, start up?)](https://blog.prototypr.io/how-i-survived-my-first-startup-start-up-start-up-7db3bc979c43) 
 
