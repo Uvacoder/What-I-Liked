@@ -4,8 +4,10 @@ Blog post, articles which I read and like on my daily basis.
 
 
 ### June 15, 2020 
-- [Tips For Managing Design Systems)](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/) 
-
+- [Tips For Managing Design Systems](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/) 
+- [Redesigning Laravel.io](https://medium.com/refactoring-ui/redesigning-laravel-io-c47ac495dff0)
+- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) 
+- [Data Tables Design](http://medium.com/@taras.bakusevych/data-tables-design-3c705b106a64) 
 
 ### June 10, 2020 
 - [How I survived my first UX job at a startup (start-up, start up?)](https://blog.prototypr.io/how-i-survived-my-first-startup-start-up-start-up-7db3bc979c43) 
