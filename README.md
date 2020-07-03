@@ -5,7 +5,7 @@ Blog post, articles which I read and like on my daily basis.
 
 ### June 25, 2020 
 
-- [Design System Inspiration----](https://framesforsketch.com/images/hero.png) ,
+- [Design System Inspiration--](https://framesforsketch.com/images/hero.png) ,
 
 - [How to Build Design Systems](https://medium.muz.li/how-to-build-design-systems-3431560f51fb) 
 - [How to Build a Design System with a Small Team](https://www.unifiedinfotech.net/blog/designing-for-blockchain-to-create-better-ux/) 
