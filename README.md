@@ -3,6 +3,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### July 4, 2020 
+- [Should you hire a junior designer for your startup?](https://uxdesign.cc/should-you-hire-a-junior-designer-for-your-startup-9c6aa9660941) 
 ### June 25, 2020 
 
 - [Design System Inspiration-](https://framesforsketch.com/images/hero.png) ,
