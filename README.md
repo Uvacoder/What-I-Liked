@@ -8,7 +8,7 @@ Blog post, articles which I read and like on my daily basis.
 - [Should you hire a junior designer for your startup?](https://uxdesign.cc/should-you-hire-a-junior-designer-for-your-startup-9c6aa9660941) 
 - [30 Must-Know Topics In JavaScript - Level Up Coding](https://levelup.gitconnected.com/30-must-know-topics-in-javascript-2b6a998f92de) 
 - [An Introduction to Open Source | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) 
-### June 25, 2020 j
+### June 25, 2020 
 
 - [Design System Inspiration-](https://framesforsketch.com/images/hero.png) ,
 
