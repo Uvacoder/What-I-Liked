@@ -4,6 +4,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### July 7, 2020 
+- [OpenCourt: Legally Enforceable Blockchain-Based Arbitration](https://media.consensys.net/opencourt-legally-enforceable-blockchain-based-arbitration-3d7147dbb56f) 
 ### July 4, 2020 
 - [Should you hire a junior designer for your startup?](https://uxdesign.cc/should-you-hire-a-junior-designer-for-your-startup-9c6aa9660941) 
 - [30 Must-Know Topics In JavaScript - Level Up Coding](https://levelup.gitconnected.com/30-must-know-topics-in-javascript-2b6a998f92de) 
