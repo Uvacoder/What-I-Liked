@@ -8,6 +8,7 @@ Blog post, articles which I read and like on my daily basis.
 
 ### July 8, 2020 
 - [How To Choose The Best Fonts For Your Brand - Black & White Studios - Medium](https://medium.com/black-white-studios/how-to-choose-the-best-fonts-for-your-brand-cd1756bd6062) 
+- [You Don’t Have to Be a Genius to Code - The Startup - Medium](https://medium.com/swlh/you-dont-have-to-be-a-genius-to-code-b1c895800cb5) 
 ### July 7, 2020 
 - [OpenCourt: Legally Enforceable Blockchain-Based Arbitration](https://media.consensys.net/opencourt-legally-enforceable-blockchain-based-arbitration-3d7147dbb56f) 
 - [Creating a paperless business environment — a UX case study](https://uxdesign.cc/creating-a-paperless-business-environment-d02adc612df0) 
