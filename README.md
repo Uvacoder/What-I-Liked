@@ -6,6 +6,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### July 9, 2020 
+- [Let’s talk about nodes!. In the blockchain system, we have a… | by Jura Protocol Media | Medium](https://medium.com/@juraprotocol/lets-talk-about-nodes-5aa8e4d9f9c6) 
 ### July 8, 2020 
 - [How To Choose The Best Fonts For Your Brand - Black & White Studios - Medium](https://medium.com/black-white-studios/how-to-choose-the-best-fonts-for-your-brand-cd1756bd6062) 
 - [You Don’t Have to Be a Genius to Code - The Startup - Medium](https://medium.com/swlh/you-dont-have-to-be-a-genius-to-code-b1c895800cb5) 
