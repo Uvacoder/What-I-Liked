@@ -12,6 +12,7 @@ Blog post, articles which I read and like on my daily basis.
 - [How does Ethereum work, anyway?. Introduction | by Preethi Kasireddy | Medium](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) 
 - [An answer to “How to get good with CSS” | by Alex Dimitrov | Statuscode | Medium](https://medium.com/statuscode/an-answer-to-how-to-get-good-with-css-3dfcfd862107) 
 - [Follow these steps to become a CSS Superstar](https://www.freecodecamp.org/news/follow-these-steps-to-become-a-css-superstar-837cd6cb9b1a/) 
+- [The Lowdown on Absolute vs. Relative Positioning | Design Shack](https://designshack.net/articles/css/the-lowdown-on-absolute-vs-relative-positioning/) 
 ### July 9, 2020 
 - [Let’s talk about nodes!. In the blockchain system, we have a… | by Jura Protocol Media | Medium](https://medium.com/@juraprotocol/lets-talk-about-nodes-5aa8e4d9f9c6) 
 - [Blockchain Architecture Basics: Components, Structure, Benefits & Creation | by MLSDev | Medium](https://medium.com/@MLSDevCom/blockchain-architecture-basics-components-structure-benefits-creation-beace17c8e77) 
