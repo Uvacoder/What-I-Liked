@@ -7,6 +7,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### July 10, 2020 
+- [How does Ethereum work, anyway?. Introduction | by Preethi Kasireddy | Medium](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) 
 ### July 9, 2020 
 - [Let’s talk about nodes!. In the blockchain system, we have a… | by Jura Protocol Media | Medium](https://medium.com/@juraprotocol/lets-talk-about-nodes-5aa8e4d9f9c6) 
 - [Blockchain Architecture Basics: Components, Structure, Benefits & Creation | by MLSDev | Medium](https://medium.com/@MLSDevCom/blockchain-architecture-basics-components-structure-benefits-creation-beace17c8e77) 
