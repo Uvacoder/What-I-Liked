@@ -8,6 +8,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### July 12, 2020 
+- [Best Google Fonts Combinations for a Modern Website](https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/) 
 ### July 10, 2020 
 - [How does Ethereum work, anyway?. Introduction | by Preethi Kasireddy | Medium](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) 
 - [An answer to “How to get good with CSS” | by Alex Dimitrov | Statuscode | Medium](https://medium.com/statuscode/an-answer-to-how-to-get-good-with-css-3dfcfd862107) 
