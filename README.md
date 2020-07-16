@@ -9,6 +9,9 @@ Blog post, articles which I read and like on my daily basis.
 
 
 
+
+### July 17, 2020 
+- [Important tips for a self-taught developer - DEV](https://dev.to/coletiv/important-tips-for-a-self-taught-developer-1mn5) 
 ### July 12, 2020 
 - [Best Google Fonts Combinations for a Modern Website](https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/) 
 - [Keep Calm and Start Coding: How to Fight Coding Anxiety | by John Selawsky | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/keep-calm-and-start-coding-how-to-fight-coding-anxiety-dee06efd8b9c) 
