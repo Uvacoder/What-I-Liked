@@ -11,6 +11,9 @@ Blog post, articles which I read and like on my daily basis..
 
 
 
+
+### July 19, 2020 
+- [What is Imposter Syndrome and How Do You Overcome it?](https://www.freecodecamp.org/news/what-is-imposter-syndrome-and-how-do-you-overcome-it/) 
 ### July 17, 2020 
 - [Important tips for a self-taught developer - DEV](https://dev.to/coletiv/important-tips-for-a-self-taught-developer-1mn5) 
 ### July 12, 2020 
