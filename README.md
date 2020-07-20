@@ -15,6 +15,7 @@ Blog post, articles which I read and like on my daily basis..
 
 ### July 20, 2020 
 - [How to get better at Coding?](https://www.linkedin.com/pulse/how-get-better-coding-divyansh-batham?articleId=6385917796596936704#comments-6385917796596936704&trk=public_profile_article_view) 
+- [Non-Technical Skills Every Developer Needs - DEV](https://dev.to/chechenev/non-technical-skills-every-developer-needs-j58) 
 ### July 19, 2020 
 - [What is Imposter Syndrome and How Do You Overcome it?](https://www.freecodecamp.org/news/what-is-imposter-syndrome-and-how-do-you-overcome-it/) 
 - [Onboarding a junior developer to your team? Here's 12 tips. - DEV](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a) 
