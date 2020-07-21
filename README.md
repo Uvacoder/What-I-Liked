@@ -13,6 +13,9 @@ Blog post, articles which I read and like on my daily basis..
 
 
 
+
+### July 21, 2020 
+- [Self-Taught Programmers — You Have the Advantage | by Lewis Cunningham | The Startup | Medium](https://medium.com/swlh/self-taught-programmers-you-have-the-advantage-56a4cb0c8742) 
 ### July 20, 2020 
 - [How to get better at Coding?](https://www.linkedin.com/pulse/how-get-better-coding-divyansh-batham?articleId=6385917796596936704#comments-6385917796596936704&trk=public_profile_article_view) 
 - [Non-Technical Skills Every Developer Needs - DEV](https://dev.to/chechenev/non-technical-skills-every-developer-needs-j58) 
