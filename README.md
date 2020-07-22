@@ -14,6 +14,9 @@ Blog post, articles which I read and like on my daily basis..
 
 
 
+
+### July 22, 2020 
+- [Best Practices for ES6 Promises - DEV](https://dev.to/somedood/best-practices-for-es6-promises-36da) 
 ### July 21, 2020 
 - [Self-Taught Programmers — You Have the Advantage | by Lewis Cunningham | The Startup | Medium](https://medium.com/swlh/self-taught-programmers-you-have-the-advantage-56a4cb0c8742) 
 ### July 20, 2020 
