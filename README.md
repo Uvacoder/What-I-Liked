@@ -19,6 +19,7 @@ Blog post, articles which I read andg like on my daily basis..
 
 ### July 26, 2020 
 - [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
+- [Follow these steps to become a CSS Superstar](https://www.freecodecamp.org/news/follow-these-steps-to-become-a-css-superstar-837cd6cb9b1a/) 
 ### July 24, 2020 
 - [Jonas' Resources for Building Beautiful Websites with HTML5, CSS3 and JavaScript](https://codingheroes.io/resources/) 
 - [Glyphs | CSS-Tricks](https://css-tricks.com/snippets/html/glyphs/) 
