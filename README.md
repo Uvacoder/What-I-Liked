@@ -18,6 +18,9 @@ Blog post, articles which I read andg like on my daily basis..
 
 
 
+
+### July 29, 2020 
+- [1-Line Layouts](http://1linelayouts.glitch.me/) 
 ### July 28, 2020 
 - [✋🏼🔥 CS Visualized: CORS - DEV](https://dev.to/lydiahallie/cs-visualized-cors-5b8h) 
 - [✋🏼🔥 CS Visualized: CORS - DEV](https://dev.to/lydiahallie/cs-visualized-cors-5b8h) 
