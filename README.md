@@ -22,6 +22,7 @@ Blog post, articles which I read andg like on my daily basis..
 
 ### July 30, 2020 
 - [How To Hire A Developer For Your MVP In 2020 | Hacker Noon](https://hackernoon.com/how-to-hire-a-developer-for-your-mvp-in-2020-va153x9m) 
+- [7 Things to Build When You Feel Bored as a Programmer | by Daan | Level Up Coding](https://levelup.gitconnected.com/7-things-to-build-when-you-feel-bored-as-a-programmer-b42b9c6193b9) 
 ### July 29, 2020 
 - [1-Line Layouts](http://1linelayouts.glitch.me/) 
 ### July 28, 2020 
