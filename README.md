@@ -26,7 +26,7 @@ Blog post, articles which I read andg like on my daily basis..
 ### July 29, 2020 
 - [1-Line Layouts](http://1linelayouts.glitch.me/) 
 ### July 28, 2020 
-- [✋🏼🔥 CS Visualized: CORS - DEV](https://dev.to/lydiahallie/cs-visualized-cors-5b8h) 
+
 - [✋🏼🔥 CS Visualized: CORS - DEV](https://dev.to/lydiahallie/cs-visualized-cors-5b8h) 
 - [Building a secure GraphQL app in minutes with Hasura - DEV](https://dev.to/nick_garfield/building-a-secure-graphql-app-in-minutes-with-hasura-58fc) 
 ### July 26, 2020 
