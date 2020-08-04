@@ -23,6 +23,7 @@ Blog post, articles which I read andg like on my daily basis.
 
 ### August 4, 2020 
 - [From Scratch to the First 10 Customers: How I designed and Launched a SaaS Product | by Valerio Barbera | Jul, 2020 | codeburst](https://codeburst.io/from-scratch-to-the-first-10-customers-how-i-designed-and-launched-a-saas-product-9176a8996b89) 
+- [Lessons learnt in year three as a software engineer - DEV](https://dev.to/shubheksha/lessons-learnt-in-year-three-as-a-software-engineer-563k) 
 ### July 30, 2020 
 - [How To Hire A Developer For Your MVP In 2020 | Hacker Noon](https://hackernoon.com/how-to-hire-a-developer-for-your-mvp-in-2020-va153x9m) 
 - [7 Things to Build When You Feel Bored as a Programmer | by Daan | Level Up Coding](https://levelup.gitconnected.com/7-things-to-build-when-you-feel-bored-as-a-programmer-b42b9c6193b9) 
