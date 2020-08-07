@@ -23,6 +23,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 8, 2020 
+- [Blockchain Development Services | ELEKS](https://eleks.com/expertise/blockchain-software-development/) 
 ### August 6, 2020 
 - [What I Wish I Knew Before I Learned to Code | by Paula Tulis | Young Coder | Medium](https://medium.com/young-coder/what-i-wish-i-knew-before-i-learned-to-code-7df25b32d269) 
 ### August 5, 2020 
