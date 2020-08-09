@@ -26,7 +26,7 @@ Blog post, articles which I read on my daily basis.
 ### August 6, 2020 
 - [What I Wish I Knew Before I Learned to Code | by Paula Tulis | Young Coder | Medium](https://medium.com/young-coder/what-i-wish-i-knew-before-i-learned-to-code-7df25b32d269) 
 ### August 5, 2020 
-- [Algorithms in JavaScript: Hash Tables | by Rohan Paul | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/algorithm-in-javascript-hash-table-7b0464d2b81b) 
+- [Algorithms in JavaScript: Hash Tables| by Rohan Paul | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/algorithm-in-javascript-hash-table-7b0464d2b81b) 
 ### August 4, 2020 
 - [From Scratch to the First 10 Customers: How I designed and Launched a SaaS Product | by Valerio Barbera | Jul, 2020 | codeburst](https://codeburst.io/from-scratch-to-the-first-10-customers-how-i-designed-and-launched-a-saas-product-9176a8996b89) 
 - [Lessons learnt in year three as a software engineer - DEV](https://dev.to/shubheksha/lessons-learnt-in-year-three-as-a-software-engineer-563k) 
