@@ -23,6 +23,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 10, 2020 
+- [You Don’t Have to Be Brilliant to Learn How to Code | by Felix Cabrera | Better Programming | Medium](https://medium.com/better-programming/you-dont-have-to-be-brilliant-to-learn-how-to-code-4e5c7b5a73af) 
 ### August 6, 2020 
 - [What I Wish I Knew Before I Learned to Code | by Paula Tulis | YoungCoder | Medium](https://medium.com/young-coder/what-i-wish-i-knew-before-i-learned-to-code-7df25b32d269) 
 ### August 5, 2020 
