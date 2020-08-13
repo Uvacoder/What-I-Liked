@@ -25,6 +25,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 13, 2020 
+- [8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/#map-statistics-dashboard) 
 ### August 11, 2020 
 - [How IPFS works. In this article, we shall be dealing… | by Akshay Meher | Medium](https://medium.com/@akshay_111meher/how-ipfs-works-545e1c890437) 
 ### August 10, 2020 
