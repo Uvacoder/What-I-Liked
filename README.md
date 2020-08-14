@@ -26,6 +26,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 14, 2020 
+- [A simple way to keep track of your design iterations in Figma | by Lennon Cheng | Aug, 2020 | UX Collective](https://uxdesign.cc/a-simple-way-to-keep-track-of-your-design-iterations-in-figma-c71ba1fb5412) 
 ### August 13, 2020 
 - [8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/#map-statistics-dashboard) 
 ### August 11, 2020 
