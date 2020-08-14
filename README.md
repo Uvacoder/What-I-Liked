@@ -30,6 +30,7 @@ Blog post, articles which I read on my daily basis.
 
 ### August 15, 2020 
 - [50 Things I Wish I Learned Earlier as a Developer | by Piero Borrelli | JavaScript In Plain English | Jul, 2020 | Medium](https://medium.com/javascript-in-plain-english/50-things-i-wish-i-learned-earlier-as-a-developer-c4ca1ba7e155) 
+- [I’ve made $18,20 after working on a passive income side project for 4 weeks | by Nick Groeneveld | Jul, 2020 | Prototypr](https://blog.prototypr.io/ive-made-18-20-after-working-on-a-passive-income-side-project-for-4-weeks-8c6ba926491e) 
 ### August 14, 2020 
 - [A simple way to keep track of your design iterations in Figma | by Lennon Cheng | Aug, 2020 | UX Collective](https://uxdesign.cc/a-simple-way-to-keep-track-of-your-design-iterations-in-figma-c71ba1fb5412) 
 ### August 13, 2020 
