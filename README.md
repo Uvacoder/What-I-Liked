@@ -28,6 +28,9 @@ Blog post, articles which I read on my daily basis..
 
 
 
+
+### August 16, 2020 
+- [What I think every newbie designer should know | by Ifeoluwa Aminu | Aug, 2020 | UX Collective](https://uxdesign.cc/what-i-think-every-newbie-designer-should-know-6cb90b89a131) 
 ### August 15, 2020 
 - [50 Things I Wish I Learned Earlier as a Developer | by Piero Borrelli | JavaScript In Plain English | Jul, 2020 | Medium](https://medium.com/javascript-in-plain-english/50-things-i-wish-i-learned-earlier-as-a-developer-c4ca1ba7e155) 
 - [I’ve made $18,20 after working on a passive income side project for 4 weeks | by Nick Groeneveld | Jul, 2020 | Prototypr](https://blog.prototypr.io/ive-made-18-20-after-working-on-a-passive-income-side-project-for-4-weeks-8c6ba926491e) 
