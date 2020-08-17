@@ -29,6 +29,9 @@ Blog post, articles which I read on my daily basis..
 
 
 
+
+### August 17, 2020 
+- [Book Summary: Steal Like an Artist by Austin Kleon](https://www.samuelthomasdavies.com/book-summaries/writing/steal-like-an-artist/) 
 ### August 16, 2020 
 - [What I think every newbie designer should know | by Ifeoluwa Aminu | Aug, 2020 | UX Collective](https://uxdesign.cc/what-i-think-every-newbie-designer-should-know-6cb90b89a131) 
 ### August 15, 2020 
