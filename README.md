@@ -30,6 +30,9 @@ Blog post, articles which I read on my daily basis..
 
 
 
+
+### August 18, 2020 
+- [A different type of tutoring — UX case study | by Coleman Inouye | Medium](https://medium.com/@colemaninouye/a-different-type-of-tutoring-ux-case-study-6fd589d852b8) 
 ### August 17, 2020 
 - [Book Summary: Steal Like an Artist by Austin Kleon](https://www.samuelthomasdavies.com/book-summaries/writing/steal-like-an-artist/) 
 ### August 16, 2020 
