@@ -31,6 +31,9 @@ Blog post, articles which I read on my daily basis..
 
 
 
+
+### August 19, 2020 
+- [You don’t need to solve problems twice — you need a design system | by Marta Vasconcelos | Jul, 2020 | UX Collective](https://uxdesign.cc/you-dont-need-to-solve-problems-twice-you-need-a-design-system-b1b9dbb76685) 
 ### August 18, 2020 
 - [A different type of tutoring — UX case study | by Coleman Inouye | Medium](https://medium.com/@colemaninouye/a-different-type-of-tutoring-ux-case-study-6fd589d852b8) 
 ### August 17, 2020 
