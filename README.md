@@ -33,6 +33,9 @@ Blog post, articles which I read on my daily basis..
 
 
 
+
+### August 22, 2020 
+- [styled-components: Basics](https://styled-components.com/docs/basics#installation) 
 ### August 20, 2020 
 - [How NOT to follow your passion 😬 - DEV](https://dev.to/arnoldgee/how-not-to-follow-your-passion-ea6) 
 ### August 19, 2020 
