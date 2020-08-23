@@ -34,6 +34,9 @@ Blog post, articles which I read on my daily basis..
 
 
 
+
+### August 23, 2020 
+- [PI. Complete Intro to the Design Systems for Product Managers and Design Leads in Startups (Hard Content). | by Saga Design Team | Aug, 2020 | UX Planet](https://uxplanet.org/i-complete-intro-to-the-design-systems-for-product-managers-and-design-leads-in-startups-75ddc0495a5e) 
 ### August 22, 2020 
 - [styled-components: Basics](https://styled-components.com/docs/basics#installation) 
 ### August 20, 2020 
