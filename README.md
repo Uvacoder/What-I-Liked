@@ -35,6 +35,9 @@ Blog post, articles which I read on my daily basis..
 
 
 
+
+### August 24, 2020 
+- [🍿 Publish your own ESLint / Prettier config for React Projects on NPM 📦 - DEV](https://dev.to/viclafouch/publish-your-own-eslint-prettier-config-for-react-projects-on-npm-g3p) 
 ### August 23, 2020 
 - [PI. Complete Intro to the Design Systems for Product Managers and Design Leads in Startups (Hard Content). | by Saga Design Team | Aug, 2020 | UX Planet](https://uxplanet.org/i-complete-intro-to-the-design-systems-for-product-managers-and-design-leads-in-startups-75ddc0495a5e) 
 ### August 22, 2020 
