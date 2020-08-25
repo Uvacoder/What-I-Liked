@@ -36,6 +36,9 @@ Blog post, articles which I read on my daily basis..
 
 
 
+
+### August 25, 2020 
+- [zen habits](https://zenhabits.net/) 
 ### August 24, 2020 
 - [🍿 Publish your own ESLint / Prettier config for React Projects on NPM 📦 - DEV](https://dev.to/viclafouch/publish-your-own-eslint-prettier-config-for-react-projects-on-npm-g3p) 
 ### August 23, 2020 
