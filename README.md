@@ -40,6 +40,7 @@ Blog post, articles which I read on my daily basis..
 ### August 25, 2020 
 - [zen habits](https://zenhabits.net/) 
 - [Essential Guide to the 100 Days of Code Challenge](https://www.software.com/src/essential-guide-to-the-100-days-of-code-challenge#:~:text=The%20100%20Days%20of%20Code%20challenge%20is%20a%20self%2Ddirected,strong%20and%20consistent%20coding%20habits.&text=Code%20for%20a%20minimum%20of,for%20the%20next%20100%20days.) 
+- [Essential Guide to the 100 Days of Code Challenge](https://www.software.com/src/essential-guide-to-the-100-days-of-code-challenge#:~:text=The%20100%20Days%20of%20Code%20challenge%20is%20a%20self%2Ddirected,strong%20and%20consistent%20coding%20habits.&text=Code%20for%20a%20minimum%20of,for%20the%20next%20100%20days.) 
 ### August 24, 2020 
 - [🍿 Publish your own ESLint / Prettier config for React Projects on NPM 📦 - DEV](https://dev.to/viclafouch/publish-your-own-eslint-prettier-config-for-react-projects-on-npm-g3p) 
 ### August 23, 2020 
