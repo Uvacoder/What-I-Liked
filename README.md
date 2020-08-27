@@ -37,6 +37,9 @@ Blog post, articles which I read on my daily basis..
 
 
 
+
+### August 27, 2020 
+- [How to Build Design Systems That Everyone Will Love | by Maxim Chechenev | The Startup | Medium](https://medium.com/swlh/how-to-build-design-systems-that-everyone-will-love-e429ad784a9b) 
 ### August 25, 2020 
 - [zen habits](https://zenhabits.net/) 
 - [Essential Guide to the 100 Days of Code Challenge](https://www.software.com/src/essential-guide-to-the-100-days-of-code-challenge#:~:text=The%20100%20Days%20of%20Code%20challenge%20is%20a%20self%2Ddirected,strong%20and%20consistent%20coding%20habits.&text=Code%20for%20a%20minimum%20of,for%20the%20next%20100%20days.) 
