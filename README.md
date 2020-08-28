@@ -38,6 +38,9 @@ Blog post, articles which I read on my daily basis..
 
 
 
+
+### August 28, 2020 
+- [Here’s What You Need to Know as a New Developer | by Indrek Lasn | Better Programming | Medium](https://medium.com/better-programming/survival-guide-for-new-developers-12d9b048bf06) 
 ### August 27, 2020 
 - [How to Build Design Systems That Everyone Will Love | by Maxim Chechenev | The Startup | Medium](https://medium.com/swlh/how-to-build-design-systems-that-everyone-will-love-e429ad784a9b) 
 ### August 25, 2020 
