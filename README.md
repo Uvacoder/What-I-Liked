@@ -39,6 +39,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### August 30, 2020 
+- [Rhythm in Web Typography | Better Web Type](https://betterwebtype.com/articles/2018/10/15/rhythm-in-web-typography/) 
 ### August 28, 2020 
 - [Here’s What You Need to Know as a New Developer | by Indrek Lasn | Better Programming | Medium](https://medium.com/better-programming/survival-guide-for-new-developers-12d9b048bf06) 
 ### August 27, 2020 
