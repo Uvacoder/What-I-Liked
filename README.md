@@ -40,6 +40,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### August 31, 2020 
+- [28 free resources for web developers - DEV](https://dev.to/arepp23/28-free-resources-for-web-developers-49a3) 
 ### August 30, 2020 
 - [Rhythm in Web Typography | Better Web Type](https://betterwebtype.com/articles/2018/10/15/rhythm-in-web-typography/) 
 ### August 28, 2020 
