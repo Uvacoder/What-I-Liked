@@ -43,6 +43,7 @@ Blog post, articles which I read on my daily basis...
 
 ### August 31, 2020 
 - [28 free resources for web developers - DEV](https://dev.to/arepp23/28-free-resources-for-web-developers-49a3) 
+- [How 7 Lines of Code Turned Into a $36 Billion Empire | by Alan Trapulionis | Aug, 2020 | Entrepreneur's Handbook](https://entrepreneurshandbook.co/two-reasons-why-these-7-lines-of-code-turned-into-a-36-billion-empire-6d2b2d1a8da2) 
 ### August 30, 2020 
 - [Rhythm in Web Typography | Better Web Type](https://betterwebtype.com/articles/2018/10/15/rhythm-in-web-typography/) 
 ### August 28, 2020 
