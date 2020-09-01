@@ -41,6 +41,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 1, 2020 
+- [How to Use Sass and Styled Components in a React JS Application | Tim Smith](https://www.iamtimsmith.com/blog/how-to-use-styles-in-a-react-js-application/) 
 ### August 31, 2020 
 - [28 free resources for web developers - DEV](https://dev.to/arepp23/28-free-resources-for-web-developers-49a3) 
 - [How 7 Lines of Code Turned Into a $36 Billion Empire | by Alan Trapulionis | Aug, 2020 | Entrepreneur's Handbook](https://entrepreneurshandbook.co/two-reasons-why-these-7-lines-of-code-turned-into-a-36-billion-empire-6d2b2d1a8da2) 
