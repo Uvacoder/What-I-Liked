@@ -42,6 +42,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 2, 2020 
+- [Dev Challenges](https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD) 
 ### September 1, 2020 
 - [How to Use Sass and Styled Components in a React JS Application | Tim Smith](https://www.iamtimsmith.com/blog/how-to-use-styles-in-a-react-js-application/) 
 ### August 31, 2020 
