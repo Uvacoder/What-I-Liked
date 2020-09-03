@@ -43,6 +43,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 3, 2020 
+- [Creating Design Systems — Part One, Colours. | by Kieran Parker | Aug, 2020 | Prototypr](https://blog.prototypr.io/creating-design-systems-part-one-colours-52ca7e9f159c) 
 ### September 2, 2020 
 - [Dev Challenges](https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD) 
 ### September 1, 2020 
