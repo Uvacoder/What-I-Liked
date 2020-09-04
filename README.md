@@ -44,6 +44,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 4, 2020 
+- [10 things people don’t tell you about Front End development | by Daniel Anderson | JavaScript In Plain English | Aug, 2020 | Medium](https://medium.com/javascript-in-plain-english/10-things-people-dont-tell-you-about-front-end-development-96aa759e566) 
 ### September 3, 2020 
 - [Creating Design Systems — Part One, Colours. | by Kieran Parker | Aug, 2020 | Prototypr](https://blog.prototypr.io/creating-design-systems-part-one-colours-52ca7e9f159c) 
 - [Should You Build a Reusable Component Library? | by Mae Capozzi | Noteworthy - The Journal Blog](https://blog.usejournal.com/should-you-build-a-reusable-component-library-4e7df72413d7) 
