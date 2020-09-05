@@ -45,6 +45,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 5, 2020 
+- [My first UX project: an e-commerce website with a social twist | by Callum O'Connor | UX Collective](https://uxdesign.cc/my-first-ux-project-b7282cd3289c) 
 ### September 4, 2020 
 - [10 things people don’t tell you about Front End development | by Daniel Anderson | JavaScript In Plain English | Aug, 2020 | Medium](https://medium.com/javascript-in-plain-english/10-things-people-dont-tell-you-about-front-end-development-96aa759e566) 
 ### September 3, 2020 
