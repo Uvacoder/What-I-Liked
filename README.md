@@ -46,6 +46,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 6, 2020 
+- [Create a work journal to keep your portfolio up-to-date | by Emma Campbell | Sep, 2020 | UX Planet](https://uxplanet.org/create-a-work-journal-to-keep-your-portfolio-up-to-date-3c5174a725b6) 
 ### September 5, 2020 
 - [My first UX project: an e-commerce website with a social twist | by Callum O'Connor | UX Collective](https://uxdesign.cc/my-first-ux-project-b7282cd3289c) 
 ### September 4, 2020 
