@@ -47,6 +47,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 7, 2020 
+- [Finance and Technology-Will they sync along? | by Yugant Nayak | Medium](https://medium.com/@yugantnayak/finance-and-technology-will-they-sync-along-24f237fd42ec) 
 ### September 6, 2020 
 - [Create a work journal to keep your portfolio up-to-date | by Emma Campbell | Sep, 2020 | UX Planet](https://uxplanet.org/create-a-work-journal-to-keep-your-portfolio-up-to-date-3c5174a725b6) 
 ### September 5, 2020 
