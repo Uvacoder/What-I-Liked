@@ -48,6 +48,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 8, 2020 
+- [Let’s Make A Design System! Live Coding at Smashing Conf | Brad Frost](https://bradfrost.com/blog/post/lets-make-a-design-system-live-coding-at-smashing-conf/) 
 ### September 7, 2020 
 - [Finance and Technology-Will they sync along? | by Yugant Nayak | Medium](https://medium.com/@yugantnayak/finance-and-technology-will-they-sync-along-24f237fd42ec) 
 - [How I shipped my new design portfolio under 5 hours | by Lennon Cheng | UX Collective](https://uxdesign.cc/how-i-shipped-my-new-design-portfolio-under-5-hours-1bc817deed54) 
