@@ -49,6 +49,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 9, 2020 
+- [Just Keep Coding!. A letter to junior developers | by Roberto Hernandez | Better Programming | Medium](https://medium.com/better-programming/just-keep-coding-5070618b330f) 
 ### September 8, 2020 
 - [Let’s Make A Design System! Live Coding at Smashing Conf | Brad Frost](https://bradfrost.com/blog/post/lets-make-a-design-system-live-coding-at-smashing-conf/) 
 ### September 7, 2020 
