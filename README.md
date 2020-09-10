@@ -55,6 +55,7 @@ Blog post, articles which I read on my daily basis...
 - [6 Ways to Level Up Your Career - DEV](https://dev.to/helenanders26/6-ways-to-level-up-your-career-1lab) 
 - [Finding time to learn - DEV](https://dev.to/zellwk/finding-time-to-learn-3i56) 
 - [Lessons Learned by Mentoring - DEV](https://dev.to/rpalo/lessons-learned-by-mentoring-1k6i) 
+- [Using React Hooks To Create Awesome Forms | by Rajat S | Medium](https://medium.com/@geeky_writer_/using-react-hooks-to-create-awesome-forms-6f846a4ce57) 
 ### September 9, 2020 
 - [Just Keep Coding!. A letter to junior developers | by Roberto Hernandez | Better Programming | Medium](https://medium.com/better-programming/just-keep-coding-5070618b330f) 
 ### September 8, 2020 
