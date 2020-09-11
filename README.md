@@ -51,6 +51,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 11, 2020 
+- [Web Apps: Client-side Rendering? SSR? Pre-rendering? | Toptal](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering#:~:text=Client%2Dside%20rendering%20manages%20the,displays%20a%20blank%20page%20first.) 
 ### September 10, 2020 
 - [6 Ways to Level Up Your Career - DEV](https://dev.to/helenanders26/6-ways-to-level-up-your-career-1lab) 
 - [Finding time to learn - DEV](https://dev.to/zellwk/finding-time-to-learn-3i56) 
