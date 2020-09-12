@@ -52,6 +52,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 12, 2020 
+- [Learn - Bullet Journal](https://bulletjournal.com/pages/learn) 
 ### September 11, 2020 
 - [Web Apps: Client-side Rendering? SSR? Pre-rendering? | Toptal](https://www.toptal.com/front-end/client-side-vs-server-side-pre-rendering#:~:text=Client%2Dside%20rendering%20manages%20the,displays%20a%20blank%20page%20first.) 
 ### September 10, 2020 
