@@ -54,6 +54,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 14, 2020 
+- [Use BEM for scalable and maintainable CSS](https://blog.tinaciousdesign.com/bem-css-scalable-maintainable) 
 ### September 13, 2020 
 - [4 Ways to Convert String to Character Array in JavaScript | by Samantha Ming | DailyJS | Medium](https://medium.com/dailyjs/4-ways-to-convert-string-to-character-array-in-javascript-994c7f73c89a) 
 ### September 12, 2020 
