@@ -58,6 +58,7 @@ Blog post, articles which I read on my daily basis...
 
 ### September 16, 2020 
 - [What Happens to Bitcoin After All 21 Million Are Mined?](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/) 
+- [Consuming REST APIs In React With Fetch And Axios — Smashing Magazine](https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/) 
 ### September 14, 2020 
 - [Use BEM for scalable and maintainable CSS](https://blog.tinaciousdesign.com/bem-css-scalable-maintainable) 
 ### September 13, 2020 
