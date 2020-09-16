@@ -55,6 +55,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 16, 2020 
+- [What Happens to Bitcoin After All 21 Million Are Mined?](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/) 
 ### September 14, 2020 
 - [Use BEM for scalable and maintainable CSS](https://blog.tinaciousdesign.com/bem-css-scalable-maintainable) 
 ### September 13, 2020 
