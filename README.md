@@ -56,6 +56,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 17, 2020 
+- [The Best Coding Challenges Websites For Beginners](https://daily.dev/posts/the-best-coding-challenges-websites-for-beginners) 
 ### September 16, 2020 
 - [What Happens to Bitcoin After All 21 Million Are Mined?](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/) 
 - [Consuming REST APIs In React With Fetch And Axios — Smashing Magazine](https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/) 
