@@ -1,6 +1,9 @@
 # What-I-Liked.
 Blog post, articles which I read on my daily basis...
 
+
+### September 18, 2020 
+- [Impact — a crypto platform: UI/UX & Branding case study | by Eftakher Alam | Muzli - Design Inspiration](https://medium.muz.li/impact-a-crypto-platform-ui-ux-branding-case-study-3c7d33ab0eca) 
 ### September 16, 2020 
 - [What Happens to Bitcoin After All 21 Million Are Mined?](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/) 
 - [Consuming REST APIs In React With Fetch And Axios — Smashing Magazine](https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/) 
