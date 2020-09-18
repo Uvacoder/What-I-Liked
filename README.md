@@ -2,6 +2,9 @@
 Blog post, articles which I read on my daily basis...
 
 
+
+### September 19, 2020 
+- [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) 
 ### September 18, 2020 
 - [Impact — a crypto platform: UI/UX & Branding case study | by Eftakher Alam | Muzli - Design Inspiration](https://medium.muz.li/impact-a-crypto-platform-ui-ux-branding-case-study-3c7d33ab0eca) 
 ### September 16, 2020 
