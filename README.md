@@ -5,6 +5,7 @@ Blog post, articles which I read on my daily basis...
 
 ### September 19, 2020 
 - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) 
+- [How I Doubled my Salary in Five Months and Got an Amazing Job](https://www.freecodecamp.org/news/how-i-doubled-my-salary-in-5-months-and-got-an-amazing-job-1110d1779e0b/) 
 ### September 18, 2020 
 - [Impact — a crypto platform: UI/UX & Branding case study | by Eftakher Alam | Muzli - Design Inspiration](https://medium.muz.li/impact-a-crypto-platform-ui-ux-branding-case-study-3c7d33ab0eca) 
 ### September 16, 2020 
