@@ -8,6 +8,7 @@ Blog post, articles which I read on my daily basis...
 - [How I Doubled my Salary in Five Months and Got an Amazing Job](https://www.freecodecamp.org/news/how-i-doubled-my-salary-in-5-months-and-got-an-amazing-job-1110d1779e0b/) 
 - [Ten Rules for Negotiating a Job Offer](https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/) 
 - [Want Success? Invest in Yourself. Investing 1 hour a day into yourself is… | by Sam Williams | Complete Coding | Medium](https://medium.com/complete-coding/want-success-invest-in-yourself-ebdafce7865c) 
+- [The Best Resources to Ace your Full Stack JavaScript Interview](https://www.freecodecamp.org/news/5-top-sites-for-javascript-interview-preparation-71b48e9a6c8a/) 
 ### September 18, 2020 
 - [Impact — a crypto platform: UI/UX & Branding case study | by Eftakher Alam | Muzli - Design Inspiration](https://medium.muz.li/impact-a-crypto-platform-ui-ux-branding-case-study-3c7d33ab0eca) 
 ### September 16, 2020 
