@@ -3,6 +3,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 20, 2020 
+- [Steve Jobs’s Advice Turned This Programmer Into a Billionaire | by Alan Trapulionis | Entrepreneur's Handbook](https://entrepreneurshandbook.co/steve-jobss-advice-turned-this-programmer-into-a-billionaire-cff537355408) 
 ### September 19, 2020 
 - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) 
 - [How I Doubled my Salary in Five Months and Got an Amazing Job](https://www.freecodecamp.org/news/how-i-doubled-my-salary-in-5-months-and-got-an-amazing-job-1110d1779e0b/) 
