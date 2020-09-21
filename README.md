@@ -7,6 +7,7 @@ Blog post, articles which I read on my daily basis...
 
 ### September 21, 2020 
 - [Install Docker on Windows 10 Home | by Carl-Johan Kihl | ITNEXT](https://itnext.io/install-docker-on-windows-10-home-d8e621997c1d) 
+- [JavaScript Array Sort – How to Use JS Sort Methods (With Code Examples)](https://www.freecodecamp.org/news/javascript-array-sort-tutorial-how-to-use-js-sort-methods-with-code-examples/) 
 ### September 20, 2020 
 - [Steve Jobs’s Advice Turned This Programmer Into a Billionaire | by Alan Trapulionis | Entrepreneur's Handbook](https://entrepreneurshandbook.co/steve-jobss-advice-turned-this-programmer-into-a-billionaire-cff537355408) 
 ### September 19, 2020 
