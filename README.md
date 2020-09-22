@@ -5,6 +5,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 22, 2020 
+- [Writing a Binary Search Algorithm in JavaScript - DEV](https://dev.to/seanwelshbrown/writing-a-binary-search-algorithm-in-javascript-5fa6) 
 ### September 21, 2020 
 - [Install Docker on Windows 10 Home | by Carl-Johan Kihl | ITNEXT](https://itnext.io/install-docker-on-windows-10-home-d8e621997c1d) 
 - [JavaScript Array Sort – How to Use JS Sort Methods (With Code Examples)](https://www.freecodecamp.org/news/javascript-array-sort-tutorial-how-to-use-js-sort-methods-with-code-examples/) 
