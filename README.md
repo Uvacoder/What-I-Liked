@@ -6,6 +6,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 23, 2020 
+- [A Study Plan To Cure JavaScript Fatigue | by Sacha Greif | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1) 
 ### September 22, 2020 
 - [Writing a Binary Search Algorithm in JavaScript - DEV](https://dev.to/seanwelshbrown/writing-a-binary-search-algorithm-in-javascript-5fa6) 
 ### September 21, 2020 
