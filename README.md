@@ -11,6 +11,7 @@ Blog post, articles which I read on my daily basis...
 ### September 24, 2020 
 - [Design for Developers: The Principles of Visual Design | by Brian Carden | BigCommerce Developer Blog | Medium](https://medium.com/bigcommerce-developer-blog/design-for-developers-the-principles-of-visual-design-672f1fc1fc64) 
 - [Figma & design thinking: Building a design system for an existing product | by Tammy Taabassum | Sep, 2020 | UX Collective](https://uxdesign.cc/figma-design-thinking-building-a-design-system-for-an-existing-product-388bfdeb844b) 
+- [Figma & design thinking: Building a design system for an existing product | by Tammy Taabassum | Sep, 2020 | UX Collective](https://uxdesign.cc/figma-design-thinking-building-a-design-system-for-an-existing-product-388bfdeb844b) 
 ### September 23, 2020 
 - [A Study Plan To Cure JavaScript Fatigue | by Sacha Greif | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1) 
 ### September 22, 2020 
