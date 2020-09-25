@@ -8,6 +8,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 25, 2020 
+- [Worry less about spacing in Figma | by Lennon Cheng | UX Collective](https://uxdesign.cc/worry-less-about-spacing-in-figma-8b44f34db4f5) 
 ### September 24, 2020 
 - [Design for Developers: The Principles of Visual Design | by Brian Carden | BigCommerce Developer Blog | Medium](https://medium.com/bigcommerce-developer-blog/design-for-developers-the-principles-of-visual-design-672f1fc1fc64) 
 - [Figma & design thinking: Building a design system for an existing product | by Tammy Taabassum | Sep, 2020 | UX Collective](https://uxdesign.cc/figma-design-thinking-building-a-design-system-for-an-existing-product-388bfdeb844b) 
