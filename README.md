@@ -12,6 +12,7 @@ Blog post, articles which I read on my daily basis...
 
 ### September 27, 2020 
 - [GitHub Guides](https://guides.github.com/) 
+- [Quick tips for Auto Layout in Figma | by James Peacock | UX Collective](https://uxdesign.cc/quick-tips-for-auto-layout-in-figma-411c639a51b0) 
 ### September 25, 2020 
 - [Worry less about spacing in Figma | by Lennon Cheng | UX Collective](https://uxdesign.cc/worry-less-about-spacing-in-figma-8b44f34db4f5) 
 ### September 24, 2020 
