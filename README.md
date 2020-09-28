@@ -10,6 +10,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 28, 2020 
+- [The JavaScript object model](https://www.cs.uct.ac.za/mit_notes/web_programming/html/ch17s03.html#:~:text=JavaScript%20has%20a%20powerful%20and,is%20called%20the%20object's%20prototype.) 
 ### September 27, 2020 
 - [GitHub Guides](https://guides.github.com/) 
 - [Quick tips for Auto Layout in Figma | by James Peacock | UX Collective](https://uxdesign.cc/quick-tips-for-auto-layout-in-figma-411c639a51b0) 
