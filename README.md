@@ -11,6 +11,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 29, 2020 
+- [JavaScript: Tracking Key Value Pairs Using Hashmaps | by Martin Crabtree | Medium](https://medium.com/@martin.crabtree/javascript-tracking-key-value-pairs-using-hashmaps-7de6df598257#:~:text=Hashtables%20and%20hashmaps%20are%20data,the%20index%20in%20the%20array.&text=Hashmaps%20offer%20the%20same%20key,to%20be%20confused%20with%20Array.) 
 ### September 28, 2020 
 - [The JavaScript object model](https://www.cs.uct.ac.za/mit_notes/web_programming/html/ch17s03.html#:~:text=JavaScript%20has%20a%20powerful%20and,is%20called%20the%20object's%20prototype.) 
 - [Do Banks Even Want to Go Blockchain?](https://cointelegraph.com/news/do-banks-even-want-to-go-blockchain) 
