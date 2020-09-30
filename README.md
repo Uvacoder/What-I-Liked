@@ -12,6 +12,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### September 30, 2020 
+- [19 things I stole from great developers | by Daniel Anderson | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/19-things-i-stole-from-great-developers-85511ff56570) 
 ### September 29, 2020 
 - [JavaScript: Tracking Key Value Pairs Using Hashmaps | by Martin Crabtree | Medium](https://medium.com/@martin.crabtree/javascript-tracking-key-value-pairs-using-hashmaps-7de6df598257#:~:text=Hashtables%20and%20hashmaps%20are%20data,the%20index%20in%20the%20array.&text=Hashmaps%20offer%20the%20same%20key,to%20be%20confused%20with%20Array.) 
 ### September 28, 2020 
