@@ -13,6 +13,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 1, 2020 
+- [Full Stack Developer's Roadmap 🗺 - DEV Community 👩‍💻👨‍💻](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12) 
 ### September 30, 2020 
 - [19 things I stole from great developers | by Daniel Anderson | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/19-things-i-stole-from-great-developers-85511ff56570) 
 ### September 29, 2020 
