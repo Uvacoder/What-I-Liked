@@ -15,6 +15,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 4, 2020 
+- [An Introduction To React’s Context API — Smashing Magazine](https://www.smashingmagazine.com/2020/01/introduction-react-context-api/) 
 ### October 2, 2020 
 - [I can't write a JavaScript for loop, and it does not matter](https://daily.sebastienlorber.com/i-cant-write-a-javascript-for-loop-and-it-does-not-matter-ckfrzpby8004iv6s19cxq04vj) 
 - [10 things to learn on the way to becoming a JavaScript Master | by Lukas Gisder-Dubé | Level Up Coding](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7) 
