@@ -272,7 +272,7 @@ Blog post, articles which I read on my daily basis...
 
 ### March 19, 2020 
 - [Let's Dance with Django (Part #1) - DEV Community 👩‍💻👨‍💻](https://dev.to/dstarner/let-s-dance-with-django-part-1-5ek1) 
-- [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad#de83) 
+- [What Powers Instagram: Hundreds of Instances, Dozens of Technologies.](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad#de83) 
 
 
 ### March 19, 2020 
