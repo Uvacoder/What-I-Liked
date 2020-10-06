@@ -16,6 +16,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 6, 2020 
+- [Learn Node.js the right way. Raw Node.js is the key | by Saurav Singh | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/learn-node-js-the-right-way-8fb8e2456e1c) 
 ### October 4, 2020 
 - [An Introduction To React’s Context API — Smashing Magazine](https://www.smashingmagazine.com/2020/01/introduction-react-context-api/) 
 ### October 2, 2020 
