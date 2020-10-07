@@ -17,6 +17,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 7, 2020 
+- [JavaScript — Iterate Over Object Properties | by Ron Yosef | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/javascript-iterate-over-object-properties-b20fe67b5b9b) 
 ### October 6, 2020 
 - [Learn Node.js the right way. Raw Node.js is the key | by Saurav Singh | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/learn-node-js-the-right-way-8fb8e2456e1c) 
 ### October 4, 2020 
