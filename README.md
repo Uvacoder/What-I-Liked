@@ -18,6 +18,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 8, 2020 
+- [Epic React: Javascript You Need To Know For React](https://blog.bhanuteja.dev/epic-react-javascript-you-need-to-know-for-react) 
 ### October 7, 2020 
 - [JavaScript — Iterate Over Object Properties | by Ron Yosef | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/javascript-iterate-over-object-properties-b20fe67b5b9b) 
 ### October 6, 2020 
