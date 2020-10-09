@@ -19,6 +19,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 9, 2020 
+- [HTTP Response Status Codes](https://kater.hashnode.dev/http-response-status-codes) 
 ### October 8, 2020 
 - [Epic React: Javascript You Need To Know For React](https://blog.bhanuteja.dev/epic-react-javascript-you-need-to-know-for-react) 
 ### October 7, 2020 
