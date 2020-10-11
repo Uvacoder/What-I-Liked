@@ -20,6 +20,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 11, 2020 
+- [(258) Pinterest](https://id.pinterest.com/pin/441352832212385826/feedback/?invite_code=3e9a99228f664eabba3b0d6a207b9377&sender_id=589197701158054236) 
 ### October 9, 2020 
 - [HTTP Response Status Codes](https://kater.hashnode.dev/http-response-status-codes) 
 ### October 8, 2020 
