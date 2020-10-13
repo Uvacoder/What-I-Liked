@@ -22,6 +22,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 13, 2020 
+- [CSS media queries are not just max-width | by Francesco Baldan | Mabiloft | Medium](https://medium.com/mabiloft/css-media-queries-are-not-just-max-width-e543ee5d1a5b) 
 ### October 12, 2020 
 - [JavaScript: Reviewing Primitive and Non-Primitive Data Types | by Benny Louie | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-reviewing-primitive-and-non-primitive-data-types-5bc4ca68c3de) 
 ### October 11, 2020 
