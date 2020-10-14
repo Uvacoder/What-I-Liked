@@ -23,6 +23,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 14, 2020 
+- [How to get started with Product Design? | by Darshan Gajara | Product Disrupt Blog](https://blog.productdisrupt.com/how-to-get-started-with-product-design-6761831edf42) 
 ### October 13, 2020 
 - [CSS media queries are not just max-width | by Francesco Baldan | Mabiloft | Medium](https://medium.com/mabiloft/css-media-queries-are-not-just-max-width-e543ee5d1a5b) 
 - [A Series of Many Failures – Darshan Gajara](https://darshangajara.com/2017/05/22/many-failures/) 
