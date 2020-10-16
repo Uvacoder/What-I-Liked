@@ -25,6 +25,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 16, 2020 
+- [The Top 5 free resources I use to find Project Ideas and Inspiration.](https://blog.devggaurav.com/the-top-5-free-resources-i-use-to-find-project-ideas-and-inspiration) 
 ### October 15, 2020 
 - [How I Utilized GitHub Actions in My Workflow | by Aaro Alhainen | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/how-i-utilized-github-actions-in-my-workflow-49865179a65f) 
 - [You Should Style the Wrong Button State | codeburst](https://codeburst.io/why-you-should-style-the-wrong-button-state-d4e4c2db8f7e) 
