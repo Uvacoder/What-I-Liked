@@ -30,6 +30,7 @@ Blog post, articles which I read on my daily basis...
 ### October 17, 2020 
 - [UI/UX Case Study of Saloon Booking app | LaptrinhX](https://laptrinhx.com/ui-ux-case-study-of-saloon-booking-app-4205693451/) 
 - [Stylo App - UI/UX Case Study — Priyanka Mandal](https://priyanka-mandal.com/work/styloapp) 
+- [Stylo App - Android (UI Design) — Priyanka Mandal](https://priyanka-mandal.com/work/styloandroid) 
 ### October 16, 2020 
 - [The Top 5 free resources I use to find Project Ideas and Inspiration.](https://blog.devggaurav.com/the-top-5-free-resources-i-use-to-find-project-ideas-and-inspiration) 
 ### October 15, 2020 
