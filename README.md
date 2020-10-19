@@ -28,6 +28,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 19, 2020 
+- [NodeJS Architecture & Concurrency Model | by Udara Bibile | Noteworthy - The Journal Blog](https://blog.usejournal.com/nodejs-architecture-concurrency-model-f71da5f53d1d) 
 ### October 18, 2020 
 - [Mistakes I Made as a Beginner in Programming | by Ashish Nair | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/mistakes-i-made-as-a-beginner-in-programming-9daebb8cc533) 
 ### October 17, 2020 
