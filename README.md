@@ -34,6 +34,7 @@ Blog post, articles which I read on my daily basis...
 ### October 21, 2020 
 - [Advice From A 19 Year Old Girl & Software Developer | by Lydia Hallie | Medium](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5) 
 - [What New Developers Should Really Focus On | by Lydia Hallie | Medium](https://medium.com/@lydiahallie/what-new-developers-should-really-focus-on-9da2eb5cf10c) 
+- [How To Successfully Teach Yourself How To Code | by Lydia Hallie | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/successfully-teaching-yourself-how-to-code-f6aac23db44a) 
 ### October 20, 2020 
 - [3 incredibly boring but highly effective ways to learn, and get better at, JavaScript | by Ben Howdle | Medium](https://medium.com/@benhowdle/3-incredibly-boring-but-highly-effective-ways-to-learn-and-get-better-at-javascript-9fd84661f917) 
 - [Zero to One: How I mastered JavaScript and how you can too - Hashnode](https://hashnode.com/post/zero-to-one-how-i-mastered-javascript-and-how-you-can-too-ciuwmrw9j00r50q539clhhdj7) 
