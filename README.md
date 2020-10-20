@@ -29,6 +29,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 20, 2020 
+- [3 incredibly boring but highly effective ways to learn, and get better at, JavaScript | by Ben Howdle | Medium](https://medium.com/@benhowdle/3-incredibly-boring-but-highly-effective-ways-to-learn-and-get-better-at-javascript-9fd84661f917) 
 ### October 19, 2020 
 - [NodeJS Architecture & Concurrency Model | by Udara Bibile | Noteworthy - The Journal Blog](https://blog.usejournal.com/nodejs-architecture-concurrency-model-f71da5f53d1d) 
 ### October 18, 2020 
