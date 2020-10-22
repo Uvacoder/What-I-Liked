@@ -34,6 +34,7 @@ Blog post, articles which I read on my daily basis...
 
 ### October 22, 2020 
 - [✨♻️ JavaScript Visualized: Event Loop - DEV](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif) 
+- [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await | by Alexander Zlatkov | SessionStack Blog](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5) 
 ### October 21, 2020 
 - [Advice From A 19 Year Old Girl & Software Developer | by Lydia Hallie | Medium](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5) 
 - [What New Developers Should Really Focus On | by Lydia Hallie | Medium](https://medium.com/@lydiahallie/what-new-developers-should-really-focus-on-9da2eb5cf10c) 
