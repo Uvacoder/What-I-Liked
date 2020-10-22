@@ -32,6 +32,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 23, 2020 
+- [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await | by Alexander Zlatkov | SessionStack Blog](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5) 
 ### October 22, 2020 
 - [✨♻️ JavaScript Visualized: Event Loop - DEV](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif) 
 - [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await | by Alexander Zlatkov | SessionStack Blog](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5) 
