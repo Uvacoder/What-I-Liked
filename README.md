@@ -34,6 +34,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 28, 2020 
+- [How to Install Oh My Zsh! on Windows 10 Home Edition - DEV](https://dev.to/vsalbuq/how-to-install-oh-my-zsh-on-windows-10-home-edition-49g2) 
 ### October 27, 2020 
 - [5 Benefits of Learning How to Solve a Rubik’s Cube - Goodnet](https://www.goodnet.org/articles/5-benefits-learning-how-to-solve-rubiks-cube#:~:text=Solving%20a%20Rubik's%20Cube%20improves,arts%2C%20even%20riding%20a%20bike.) 
 - [Expectations of a Junior Developer – Firehose Project](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/#:~:text=Your%20goal%20should%20be%20to,from%203%20to%206%20months.) 
