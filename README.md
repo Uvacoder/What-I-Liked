@@ -33,6 +33,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 27, 2020 
+- [5 Benefits of Learning How to Solve a Rubik’s Cube - Goodnet](https://www.goodnet.org/articles/5-benefits-learning-how-to-solve-rubiks-cube#:~:text=Solving%20a%20Rubik's%20Cube%20improves,arts%2C%20even%20riding%20a%20bike.) 
 ### October 23, 2020 
 - [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await | by Alexander Zlatkov | SessionStack Blog](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5) 
 ### October 22, 2020 
