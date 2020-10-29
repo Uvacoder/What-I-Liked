@@ -35,6 +35,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### October 29, 2020 
+- [What I Wish I Knew as a Junior Dev – Lessons Learned After 11 Years of Coding](https://www.freecodecamp.org/news/lessons-learned-after-11-years-coding/) 
 ### October 28, 2020 
 - [How to Install Oh My Zsh! on Windows 10 Home Edition - DEV](https://dev.to/vsalbuq/how-to-install-oh-my-zsh-on-windows-10-home-edition-49g2) 
 ### October 27, 2020 
