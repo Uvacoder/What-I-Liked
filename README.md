@@ -41,6 +41,7 @@ Blog post, articles which I read on my daily basis...
 - [Understanding Asynchronous JavaScript | by Sukhjinder Arora | Bits and Pieces](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) 
 - [My way to learn UI Design as a UX Designer | by Lena Lupprian | Prototypr](https://blog.prototypr.io/my-way-to-learn-ui-design-as-a-ux-designer-e547d60760be) 
 - [Advice to Junior Developers. These are the advice I’d give my… | by Sameed H. Khan | The Startup | Medium](https://medium.com/swlh/advice-to-junior-developers-14ca714ae494) 
+- [The JavaScript Cheatsheet you need in 2020 | by Stefania Simon | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09) 
 ### October 29, 2020 
 - [What I Wish I Knew as a Junior Dev – Lessons Learned After 11 Years of Coding](https://www.freecodecamp.org/news/lessons-learned-after-11-years-coding/) 
 ### October 28, 2020 
