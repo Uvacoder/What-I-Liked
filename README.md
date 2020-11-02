@@ -37,6 +37,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 2, 2020 
+- [Code-Split Your React App With Lazy and Suspense | by Marshal Murphy | Better Programming | Medium](https://medium.com/better-programming/code-split-your-react-app-with-lazy-suspense-9bab11f492b5) 
 ### November 1, 2020 
 - [Understanding Asynchronous JavaScript | by Sukhjinder Arora | Bits and Pieces](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff) 
 - [My way to learn UI Design as a UX Designer | by Lena Lupprian | Prototypr](https://blog.prototypr.io/my-way-to-learn-ui-design-as-a-ux-designer-e547d60760be) 
