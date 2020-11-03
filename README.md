@@ -41,6 +41,7 @@ Blog post, articles which I read on my daily basis...
 
 ### November 3, 2020 
 - [Blockchain for noobs: A definitive guide | FactorDaily](https://factordaily.com/what-is-blockchain-guide-for-beginners/) 
+- [18 best resources To Learn BlockChain [2019]](https://www.errortechnologies.com/blog/resources-to-learn-blockchain.html) 
 ### November 2, 2020 
 - [Code-Split Your React App With Lazy and Suspense | by Marshal Murphy | Better Programming | Medium](https://medium.com/better-programming/code-split-your-react-app-with-lazy-suspense-9bab11f492b5) 
 ### November 1, 2020 
