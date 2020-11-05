@@ -39,6 +39,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 6, 2020 
+- [Ace your first year as a junior developer with this advice | by Chris Blakely | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9) 
 ### November 3, 2020 
 - [Blockchain for noobs: A definitive guide | FactorDaily](https://factordaily.com/what-is-blockchain-guide-for-beginners/) 
 - [18 best resources To Learn BlockChain [2019]](https://www.errortechnologies.com/blog/resources-to-learn-blockchain.html) 
