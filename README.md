@@ -40,6 +40,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 7, 2020 
+- [450 DSA Cracker](https://450dsa.com/) 
 ### November 6, 2020 
 - [Ace your first year as a junior developer with this advice | by Chris Blakely | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9) 
 ### November 3, 2020 
