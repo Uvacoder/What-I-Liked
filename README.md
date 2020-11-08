@@ -44,6 +44,7 @@ Blog post, articles which I read on my daily basis...
 
 ### November 8, 2020 
 - [Vanilla JavaScript live search](https://h.daily-dev-tips.com/vanilla-javascript-live-search) 
+- [20 inspiring examples of signup forms - Justinmind](https://www.justinmind.com/blog/20-inspiring-examples-of-signup-form-pages/) 
 ### November 7, 2020 
 - [450 DSA Cracker](https://450dsa.com/) 
 ### November 6, 2020 
