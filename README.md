@@ -45,6 +45,7 @@ Blog post, articles which I read on my daily basis...
 
 ### November 9, 2020 
 - [How To Start Your Career as a Self-Taught Software Developer | by Danang Arbansa | Better Programming | Medium](https://medium.com/better-programming/how-to-start-your-career-as-a-self-taught-software-developer-3d1bee9f2c4e) 
+- [Writing Your CSS like This Will Make Your Code Super-Clean | by Radek Busa | Level Up Coding](https://levelup.gitconnected.com/writing-your-css-like-this-will-make-your-code-super-clean-f82d4bfeb468) 
 ### November 8, 2020 
 - [Vanilla JavaScript live search](https://h.daily-dev-tips.com/vanilla-javascript-live-search) 
 - [20 inspiring examples of signup forms - Justinmind](https://www.justinmind.com/blog/20-inspiring-examples-of-signup-form-pages/) 
