@@ -46,6 +46,7 @@ Blog post, articles which I read on my daily basis...
 
 ### November 10, 2020 
 - [Algorithms To Live By - Applying Algorithms To Everyday Things](https://maniishjaiin.tech/algorithms-to-live-by-applying-algorithms-to-everyday-things) 
+- [Lessons I’ve Learned in 5 Years as a Software Engineer](https://maniishjaiin.hashnode.dev/lessons-ive-learned-in-5-years-as-a-software-engineer) 
 ### November 9, 2020 
 - [How To Start Your Career as a Self-Taught Software Developer | by Danang Arbansa | Better Programming | Medium](https://medium.com/better-programming/how-to-start-your-career-as-a-self-taught-software-developer-3d1bee9f2c4e) 
 - [Writing Your CSS like This Will Make Your Code Super-Clean | by Radek Busa | Level Up Coding](https://levelup.gitconnected.com/writing-your-css-like-this-will-make-your-code-super-clean-f82d4bfeb468) 
