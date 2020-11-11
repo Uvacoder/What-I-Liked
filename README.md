@@ -44,6 +44,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 11, 2020 
+- [3 lessons from 3 startup years. Reflections from working at an early… | by Ainesh Ravi | Medium](https://medium.com/@ainesh_87095/3-lessons-from-3-startup-years-db19c3a4b366) 
 ### November 10, 2020 
 - [Algorithms To Live By - Applying Algorithms To Everyday Things](https://maniishjaiin.tech/algorithms-to-live-by-applying-algorithms-to-everyday-things) 
 - [Lessons I’ve Learned in 5 Years as a Software Engineer](https://maniishjaiin.hashnode.dev/lessons-ive-learned-in-5-years-as-a-software-engineer) 
