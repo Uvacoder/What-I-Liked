@@ -45,6 +45,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 12, 2020 
+- [Learn code like a chef, not a diner | by Raji Ayinla | The Open Manuel | Medium](https://medium.com/the-open-manuel/learn-code-like-a-chef-not-a-diner-45f38cb758af) 
 ### November 11, 2020 
 - [3 lessons from 3 startup years. Reflections from working at an early… | by Ainesh Ravi | Medium](https://medium.com/@ainesh_87095/3-lessons-from-3-startup-years-db19c3a4b366) 
 ### November 10, 2020 
