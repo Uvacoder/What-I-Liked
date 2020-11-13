@@ -47,6 +47,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 14, 2020 
+- [How to explain object-oriented programming concepts to a 6-year-old](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/) 
 ### November 13, 2020 
 - [The History of Money: From Barter to Banknotes](https://www.investopedia.com/articles/07/roots_of_money.asp) 
 ### November 12, 2020 
