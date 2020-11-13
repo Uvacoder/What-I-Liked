@@ -46,6 +46,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 13, 2020 
+- [The History of Money: From Barter to Banknotes](https://www.investopedia.com/articles/07/roots_of_money.asp) 
 ### November 12, 2020 
 - [Learn code like a chef, not a diner | by Raji Ayinla | The Open Manuel | Medium](https://medium.com/the-open-manuel/learn-code-like-a-chef-not-a-diner-45f38cb758af) 
 ### November 11, 2020 
