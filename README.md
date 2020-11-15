@@ -48,6 +48,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 15, 2020 
+- [The newbie UI/UX designer.. /5 important tips for a newbie UI/UX designer/](https://arbydesign.hashnode.dev/the-newbie-uiux-designer-5-important-tips-for-a-newbie-uiux-designer) 
 ### November 14, 2020 
 - [How to explain object-oriented programming concepts to a 6-year-old](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/) 
 - [A brief summary of JavaScript Learning Path - DEV Community 👩‍💻👨‍💻](https://dev.to/hoangleitvn/javascript-learning-path-5bgb) 
