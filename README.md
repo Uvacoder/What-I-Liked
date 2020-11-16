@@ -49,6 +49,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 16, 2020 
+- [Relearning React. From classes to Hooks | by Michael Landis | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/relearning-react-3db1be5a3567) 
 ### November 15, 2020 
 - [The newbie UI/UX designer.. /5 important tips for a newbie UI/UX designer/](https://arbydesign.hashnode.dev/the-newbie-uiux-designer-5-important-tips-for-a-newbie-uiux-designer) 
 ### November 14, 2020 
