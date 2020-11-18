@@ -50,6 +50,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 18, 2020 
+- [The Roadmap to Landing Your Next Job as a Software Engineer | by Trey Huffine | Nov, 2020 | Level Up Coding](https://levelup.gitconnected.com/the-roadmap-to-landing-your-next-job-as-a-software-engineer-cf6289d6f274) 
 ### November 16, 2020 
 - [Relearning React. From classes to Hooks | by Michael Landis | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/relearning-react-3db1be5a3567) 
 ### November 15, 2020 
