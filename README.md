@@ -51,6 +51,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 20, 2020 
+- [Promises chaining](https://javascript.info/promise-chaining) 
 ### November 18, 2020 
 - [The Roadmap to Landing Your Next Job as a Software Engineer | by Trey Huffine | Nov, 2020 | Level Up Coding](https://levelup.gitconnected.com/the-roadmap-to-landing-your-next-job-as-a-software-engineer-cf6289d6f274) 
 ### November 16, 2020 
