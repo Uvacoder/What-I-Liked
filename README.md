@@ -52,6 +52,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 22, 2020 
+- [Understanding Processes, Threads and CPU Cores](https://kishoreconnect.com/understanding-processes-threads-and-cpu-cores) 
 ### November 20, 2020 
 - [Promises chaining](https://javascript.info/promise-chaining) 
 ### November 18, 2020 
