@@ -54,6 +54,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 24, 2020 
+- [JavaScript Call Stack](https://www.javascripttutorial.net/javascript-call-stack/) 
 ### November 23, 2020 
 - [Selecting Breakpoints - The Options](https://shaydeecoder.hashnode.dev/selecting-breakpoints-the-options) 
 ### November 22, 2020 
