@@ -56,6 +56,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### November 28, 2020 
+- [How side projects saved our startup | by Mikael Cho | Crew Dispatch | Medium](https://medium.com/who-what-why/how-side-projects-saved-our-startup-a83a80f3b3ae) 
 ### November 25, 2020 
 - [JavaScript Hoisting Explained By Examples](https://www.javascripttutorial.net/javascript-hoisting/) 
 - [Understanding JavaScript Execution Context By Examples](https://www.javascripttutorial.net/javascript-execution-context/) 
