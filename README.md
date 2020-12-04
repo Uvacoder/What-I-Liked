@@ -62,6 +62,7 @@ Blog post, articles which I read on my daily basis...
 
 ### December 4, 2020 
 - [What are Hashes and Why do we need them?](https://simpleaswater.com/ipfs-hashes/) 
+- [Everything You Need to Know About Gitcoin | by Vivek Singh | Gitcoin | Medium](https://medium.com/gitcoin/everything-you-need-to-know-about-gitcoin-fe2e3e292a21) 
 ### December 2, 2020 
 - [Understanding Closures in JavaScript | by Sukhjinder Arora | Bits and Pieces](https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda#:~:text=Every%20time%20the%20JavaScript%20engine,that%20holds%20identifier%2Dvariable%20mapping.) 
 ### November 29, 2020 
