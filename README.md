@@ -60,6 +60,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### December 8, 2020 
+- [Land Administration in Afghanistan: UN Looks Towards Blockchain | Hacker Noon](https://hackernoon.com/land-administration-in-afghanistan-un-looks-towards-blockchain-8p2y3z9v) 
 ### December 4, 2020 
 - [What are Hashes and Why do we need them?](https://simpleaswater.com/ipfs-hashes/) 
 - [Everything You Need to Know About Gitcoin | by Vivek Singh | Gitcoin | Medium](https://medium.com/gitcoin/everything-you-need-to-know-about-gitcoin-fe2e3e292a21) 
