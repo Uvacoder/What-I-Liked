@@ -61,6 +61,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### December 15, 2020 
+- [How I Built my Side Project and Got 31,000 Users the First Week](https://www.freecodecamp.org/news/how-i-built-my-side-project-and-got-31-000-users-the-first-week-d9053bae5302/) 
 ### December 8, 2020 
 - [Land Administration in Afghanistan: UN Looks Towards Blockchain | Hacker Noon](https://hackernoon.com/land-administration-in-afghanistan-un-looks-towards-blockchain-8p2y3z9v) 
 - [101 Tips to Make You a Better Developer - DEV Community 👩‍💻👨‍💻](https://dev.to/simonholdorf/101-tips-to-make-you-a-better-developer-2jo3) 
