@@ -66,6 +66,7 @@ Blog post, articles which I read on my daily basis...
 ### December 20, 2020 
 - [How I Doubled my Salary in Five Months and Got an Amazing Job](https://www.freecodecamp.org/news/how-i-doubled-my-salary-in-5-months-and-got-an-amazing-job-1110d1779e0b/) 
 - [Want Success? Invest in Yourself. Investing 1 hour a day into yourself is… | by Sam Williams | Complete Coding | Medium](https://medium.com/complete-coding/want-success-invest-in-yourself-ebdafce7865c) 
+- [Want Success? Invest in Yourself. Investing 1 hour a day into yourself is… | by Sam Williams | Complete Coding | Medium](https://medium.com/complete-coding/want-success-invest-in-yourself-ebdafce7865c) 
 ### December 15, 2020 
 - [How I Built my Side Project and Got 31,000 Users the First Week](https://www.freecodecamp.org/news/how-i-built-my-side-project-and-got-31-000-users-the-first-week-d9053bae5302/) 
 ### December 8, 2020 
