@@ -63,6 +63,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### December 22, 2020 
+- [Avoiding burnout as an ambitious developer - Stack Overflow Blog](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/) 
 ### December 20, 2020 
 - [How I Doubled my Salary in Five Months and Got an Amazing Job](https://www.freecodecamp.org/news/how-i-doubled-my-salary-in-5-months-and-got-an-amazing-job-1110d1779e0b/) 
 - [Want Success? Invest in Yourself. Investing 1 hour a day into yourself is… | by Sam Williams | Complete Coding | Medium](https://medium.com/complete-coding/want-success-invest-in-yourself-ebdafce7865c) 
