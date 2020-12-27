@@ -64,6 +64,9 @@ Blog post, articles which I read on my daily basis...
 
 
 
+
+### December 27, 2020 
+- [JavaScript Array of Objects Tutorial – How to Create, Update, and Loop Through Objects Using JS Array Methods](https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/) 
 ### December 22, 2020 
 - [Avoiding burnout as an ambitious developer - Stack Overflow Blog](https://stackoverflow.blog/2020/01/13/avoiding-burnout-as-an-ambitious-developer/) 
 ### December 20, 2020 
