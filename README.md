@@ -69,6 +69,7 @@ Blog post, articles which I read on my daily basis...
 
 ### January 1, 2021 
 - [30. How to get a job without experience](https://sid.st/post/get-a-job/) 
+- [3⃣ How do you start a side project](https://us15.campaign-archive.com/?u=0a756fc34189f5309c4080829&id=63a1f66d3d) 
 ### December 31, 2020 
 - [From Nothing to Hashnode: My Tech Journey](https://iamshadmirza.com/from-nothing-to-hashnode-my-tech-journey) 
 - [From Nothing to Hashnode: My Tech Journey](https://iamshadmirza.com/from-nothing-to-hashnode-my-tech-journey) 
