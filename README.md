@@ -69,6 +69,7 @@ Blog post, articles which I read on my daily basis...
 ### December 31, 2020 
 - [From Nothing to Hashnode: My Tech Journey](https://iamshadmirza.com/from-nothing-to-hashnode-my-tech-journey) 
 - [From Nothing to Hashnode: My Tech Journey](https://iamshadmirza.com/from-nothing-to-hashnode-my-tech-journey) 
+- [39. So you want to start a blog](https://sid.st/post/start-a-blog/) 
 ### December 27, 2020 
 - [JavaScript Array of Objects Tutorial – How to Create, Update, and Loop Through Objects Using JS Array Methods](https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/) 
 ### December 22, 2020 
