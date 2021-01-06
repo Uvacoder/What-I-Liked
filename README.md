@@ -64,7 +64,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
-
+### Janauary 6, 2021
+- [Redesigning Unacademy’s Internal Educator Dashboard — UI/UX Case St...](https://blog.prototypr.io/redesigning-unacademys-internal-educator-dashboard-ui-ux-case-study-6cc1897ee833)
+- [Cooking App](https://uxplanet.org/skill-chef-a-ui-ux-case-study-4cc2d56c50ce)
 
 
 ### January 1, 2021 
