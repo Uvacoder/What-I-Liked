@@ -68,6 +68,7 @@ Blog post, articles which I read on my daily basis.
 ### January 10, 2021 
 - [What is a Dapp? A Guide to Ethereum Dapps](https://www.freecodecamp.org/news/what-is-a-dapp-a-guide-to-ethereum-dapps/) 
 - [What Is Hashing? | Binance Academy](https://academy.binance.com/en/articles/what-is-hashing) 
+- [Developing your eye for design. This advice was originally intended for… | by Jonathan Z. White | Medium](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4) 
 ### Janauary 6, 2021
 - [Redesigning Unacademy’s Internal Educator Dashboard — UI/UX Case St...](https://blog.prototypr.io/redesigning-unacademys-internal-educator-dashboard-ui-ux-case-study-6cc1897ee833)
 - [Cooking App](https://uxplanet.org/skill-chef-a-ui-ux-case-study-4cc2d56c50ce)
