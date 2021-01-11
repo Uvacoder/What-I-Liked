@@ -68,6 +68,7 @@ Blog post, articles which I read on my daily basis.
 
 ### January 11, 2021 
 - [Building a Simple CRUD app with Node, Express, and MongoDB | Zell Liew](https://zellwk.com/blog/crud-express-mongodb/) 
+- [Understanding And Using REST APIs — Smashing Magazine](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/) 
 ### January 10, 2021 
 - [What is a Dapp? A Guide to Ethereum Dapps](https://www.freecodecamp.org/news/what-is-a-dapp-a-guide-to-ethereum-dapps/) 
 - [What Is Hashing? | Binance Academy](https://academy.binance.com/en/articles/what-is-hashing) 
