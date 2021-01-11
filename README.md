@@ -69,6 +69,7 @@ Blog post, articles which I read on my daily basis.
 
 ### January 12, 2021 
 - [What are your programming weaknesses? | by Hemil Patel | Nov, 2020 | Medium](https://patelhemil.medium.com/what-are-your-programming-weaknesses-9f4c9966149c) 
+- [An Interview Question: How many ways can you reverse a string in JavaScript? | by Hemil Patel | Medium](https://patelhemil.medium.com/an-interview-question-how-many-ways-can-you-reverse-a-string-in-javascript-89e8d6f5fa1d) 
 ### January 11, 2021 
 - [Building a Simple CRUD app with Node, Express, and MongoDB | Zell Liew](https://zellwk.com/blog/crud-express-mongodb/) 
 - [Understanding And Using REST APIs — Smashing Magazine](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/) 
