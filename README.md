@@ -70,6 +70,7 @@ Blog post, articles which I read on my daily basis.
 
 ### January 15, 2021 
 - [e-Books](https://www.uxpin.com/studio/ebooks/) 
+- [Creating Styleguides — the what, how and why behind it. | by Faizur Rehman | Faizur | Medium](https://medium.com/fazurrehman/creating-styleguides-the-what-how-and-why-behind-it-7b61dbf560eb) 
 ### January 12, 2021 
 - [What are your programming weaknesses? | by Hemil Patel | Nov, 2020 | Medium](https://patelhemil.medium.com/what-are-your-programming-weaknesses-9f4c9966149c) 
 - [An Interview Question: How many ways can you reverse a string in JavaScript? | by Hemil Patel | Medium](https://patelhemil.medium.com/an-interview-question-how-many-ways-can-you-reverse-a-string-in-javascript-89e8d6f5fa1d) 
