@@ -71,6 +71,7 @@ Blog post, articles which I read on my daily basis.
 
 ### January 16, 2021 
 - [Introduction to git and GitHub - DEV Community 👩‍💻👨‍💻](https://dev.to/nirbhayvashisht/introduction-to-git-and-github-4jg8) 
+- [Welcome to hell: Apple vs. Google vs. Facebook and the slow death of the web - The Verge](https://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web) 
 ### January 15, 2021 
 - [e-Books](https://www.uxpin.com/studio/ebooks/) 
 - [Creating Styleguides — the what, how and why behind it. | by Faizur Rehman | Faizur | Medium](https://medium.com/fazurrehman/creating-styleguides-the-what-how-and-why-behind-it-7b61dbf560eb) 
