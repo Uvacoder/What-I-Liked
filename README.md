@@ -74,6 +74,7 @@ Blog post, articles which I read on my daily basis.
 ### January 19, 2021 
 - [UI Sources on Indie Hackers](https://www.indiehackers.com/product/ui-sources) 
 - [ShowTrackr — UI/UX case study of a landing page optimized for conversions | by Daniel Korpai | Muzli - Design Inspiration](https://medium.muz.li/showtrackr-ui-ux-case-study-of-a-landing-page-optimized-for-conversions-1ccf3288034b) 
+- [Here is how you can learn UX/UI. One of the most frequently asked… | by Bogomolova Anfisa | Learn UX/UI | Medium](https://medium.com/learn-uxui/here-is-how-you-can-learn-ux-ui-dabcc51dd89e) 
 ### January 17, 2021 
 - [🎓 The Art of Being a Good Mentee • Buttondown](https://buttondown.email/swap/archive/the-art-of-being-a-good-mentee/) 
 - [🥳 Advice to Younger Me • Buttondown](https://buttondown.email/swap/archive/advice-to-younger-me/) 
