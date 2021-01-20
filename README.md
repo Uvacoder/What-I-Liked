@@ -71,6 +71,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### January 20, 2021 
+- [Startup = Growth](http://www.paulgraham.com/growth.html) 
 ### January 19, 2021 
 - [UI Sources on Indie Hackers](https://www.indiehackers.com/product/ui-sources) 
 - [ShowTrackr — UI/UX case study of a landing page optimized for conversions | by Daniel Korpai | Muzli - Design Inspiration](https://medium.muz.li/showtrackr-ui-ux-case-study-of-a-landing-page-optimized-for-conversions-1ccf3288034b) 
