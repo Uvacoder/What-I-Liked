@@ -74,6 +74,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### January 28, 2021 
+- [Bitcoin explained using emojis — Nichanan Kesonpat](https://www.nichanank.com/blog/2017/8/12/bitcoin-explained-using-emojis) 
 ### January 25, 2021 
 - [I Almost Got Fired for Choosing React in Our Enterprise App | by Razvan Dragomir | Better Programming | Jan, 2021 | Medium](https://medium.com/better-programming/i-almost-got-fired-for-choosing-react-in-our-enterprise-app-846ea840841c) 
 ### January 24, 2021 
