@@ -75,6 +75,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### January 29, 2021 
+- [neogcamp](https://neog.camp/roadmap) 
 ### January 28, 2021 
 - [Bitcoin explained using emojis — Nichanan Kesonpat](https://www.nichanank.com/blog/2017/8/12/bitcoin-explained-using-emojis) 
 ### January 25, 2021 
