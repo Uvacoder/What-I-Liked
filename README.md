@@ -76,6 +76,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### January 31, 2021 
+- [GitHub - malgamves/CommunityWriterPrograms: A list of Developer Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) 
 ### January 29, 2021 
 - [neogcamp](https://neog.camp/roadmap) 
 ### January 28, 2021 
