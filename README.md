@@ -82,6 +82,7 @@ Blog post, articles which I read on my daily basis.
 - [The One Year Plan For Cracking Coding Interviews | by Anjali Viramgama | Towards Data Science](https://towardsdatascience.com/the-one-year-plan-for-competitive-coding-6af53f2f719c) 
 - [Use these four tactics to gauge your programming progress. | Level Up Coding](https://levelup.gitconnected.com/are-you-becoming-a-better-programmer-cb59fbf23085) 
 - [Use these four tactics to gauge your programming progress. | Level Up Coding](https://levelup.gitconnected.com/are-you-becoming-a-better-programmer-cb59fbf23085) 
+- [amymhaddad](https://amymhaddad.com/why-reading-code-matters) 
 ### January 31, 2021 
 - [GitHub - malgamves/CommunityWriterPrograms: A list of Developer Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) 
 ### January 29, 2021 
