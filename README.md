@@ -77,6 +77,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### February 2, 2021 
+- [The One Year Plan For Cracking Coding Interviews | by Anjali Viramgama | Towards Data Science](https://towardsdatascience.com/the-one-year-plan-for-competitive-coding-6af53f2f719c) 
 ### January 31, 2021 
 - [GitHub - malgamves/CommunityWriterPrograms: A list of Developer Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) 
 ### January 29, 2021 
