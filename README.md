@@ -79,6 +79,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### February 5, 2021 
+- [Why India Should Buy Bitcoin](https://balajis.com/why-india-should-buy-bitcoin/) 
 ### February 4, 2021 
 - [Building Reusable React Components Using Tailwind — Smashing Magazine](https://www.smashingmagazine.com/2020/05/reusable-react-components-tailwind/) 
 - [Building Reusable React Components Using Tailwind — Smashing Magazine](https://www.smashingmagazine.com/2020/05/reusable-react-components-tailwind/) 
