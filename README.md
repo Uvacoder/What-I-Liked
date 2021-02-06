@@ -80,6 +80,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### February 6, 2021 
+- [Why I’m Thankful for JS Fatigue. I know you’re sick of those words, but this is different. | by Eric Elliott | JavaScript Scene | Medium](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f) 
 ### February 5, 2021 
 - [Why India Should Buy Bitcoin](https://balajis.com/why-india-should-buy-bitcoin/) 
 ### February 4, 2021 
