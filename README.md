@@ -82,6 +82,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### February 13, 2021 
+- [🥳 Advice to Younger Me • Buttondown](https://buttondown.email/swap/archive/advice-to-younger-me/) 
 ### February 8, 2021 
 - [Understanding React Portals and Its Use-Cases | by Madushika Perera | Bits and Pieces](https://blog.bitsrc.io/understanding-react-portals-ab79827732c7) 
 ### February 6, 2021 
