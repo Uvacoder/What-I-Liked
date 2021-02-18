@@ -83,6 +83,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### February 18, 2021 
+- [What happens to your Bitcoin when you die?](https://cointelegraph.com/news/what-happens-to-your-bitcoin-when-you-die) 
 ### February 13, 2021 
 - [🥳 Advice to Younger Me • Buttondown](https://buttondown.email/swap/archive/advice-to-younger-me/) 
 ### February 8, 2021 
