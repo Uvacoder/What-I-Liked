@@ -87,6 +87,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### February 25, 2021 
+- [What happens to your Bitcoin when you die?](https://cointelegraph.com/news/what-happens-to-your-bitcoin-when-you-die) 
 ### February 24, 2021 
 - [My Journey Into Software Engineering - DEV Community 👩‍💻👨‍💻](https://dev.to/emmabostian/my-journey-into-software-engineering-15ef) 
 - [Six Data Structures To Help You Ace Your Technical Interview - DEV Community 👩‍💻👨‍💻](https://dev.to/ladybug/six-data-structures-you-should-know-in-2020-3h5a) 
