@@ -86,6 +86,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### February 24, 2021 
+- [My Journey Into Software Engineering - DEV Community 👩‍💻👨‍💻](https://dev.to/emmabostian/my-journey-into-software-engineering-15ef) 
 ### February 23, 2021 
 - [How To Build a Photo Search App with React Using the Unsplash API | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-build-a-photo-search-app-with-react-using-the-unsplash-api) 
 - [How to overcome your fear of public speaking in 7 days | by Himanshu Dixit | Medium](https://medium.com/@himanshu.dixit/how-to-defeat-person-inside-you-whos-afraid-of-public-speaking-ec84c999995e) 
