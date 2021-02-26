@@ -88,6 +88,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### February 26, 2021 
+- [UI Design: Choosing Color Palettes](https://designerup.co/blog/ui-design-choosing-color-palettes/) 
 ### February 25, 2021 
 - [What happens to your Bitcoin when you die?](https://cointelegraph.com/news/what-happens-to-your-bitcoin-when-you-die) 
 ### February 24, 2021 
