@@ -89,6 +89,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### March 3, 2021 
+- [How should I structure and write a User Research case study? | by Nikki Anderson | UX Collective](https://uxdesign.cc/a-sample-user-research-case-study-542a564f64e3) 
 ### February 26, 2021 
 - [UI Design: Choosing Color Palettes](https://designerup.co/blog/ui-design-choosing-color-palettes/) 
 ### February 25, 2021 
