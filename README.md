@@ -90,6 +90,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### March 9, 2021 
+- [Styled Components: To Use or Not to Use? | by Talia Marcassa | Building CrowdRiff | Medium](https://medium.com/building-crowdriff/styled-components-to-use-or-not-to-use-a6bb4a7ffc21) 
 ### March 3, 2021 
 - [How should I structure and write a User Research case study? | by Nikki Anderson | UX Collective](https://uxdesign.cc/a-sample-user-research-case-study-542a564f64e3) 
 - [How should I structure and write a User Research case study? | by Nikki Anderson | UX Collective](https://uxdesign.cc/a-sample-user-research-case-study-542a564f64e3) 
