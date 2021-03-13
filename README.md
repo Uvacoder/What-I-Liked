@@ -91,6 +91,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### March 13, 2021 
+- [Why CSS Grid is better than Bootstrap for creating layouts | Hacker Noon](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163) 
 ### March 9, 2021 
 - [Styled Components: To Use or Not to Use? | by Talia Marcassa | Building CrowdRiff | Medium](https://medium.com/building-crowdriff/styled-components-to-use-or-not-to-use-a6bb4a7ffc21) 
 ### March 3, 2021 
