@@ -93,6 +93,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### March 24, 2021 
+- [Crypto Security Glossary - Vault12](https://vault12.com/learn/crypto-glossary-2650045985/smart-contract) 
 ### March 15, 2021 
 - [Export and Import](https://javascript.info/import-export) 
 ### March 13, 2021 
