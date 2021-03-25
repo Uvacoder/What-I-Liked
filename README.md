@@ -94,6 +94,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### March 25, 2021 
+- [My Love Story with Technology. Love stories, those started with hatred… | by Anisha Swain | Coffee with the UI girl | Medium](https://medium.com/the-ui-girl/my-love-story-with-technology-aa2c4cb5d924) 
 ### March 24, 2021 
 - [Crypto Security Glossary - Vault12](https://vault12.com/learn/crypto-glossary-2650045985/smart-contract) 
 ### March 15, 2021 
