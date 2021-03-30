@@ -95,6 +95,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### March 30, 2021 
+- [How to use SVG sprites (regular HTML vs React) | by Gineet Mehta | Medium](https://medium.com/@gineetmehta/how-to-use-svg-sprites-regular-html-vs-react-9f98948c03f0) 
 ### March 25, 2021 
 - [My Love Story with Technology. Love stories, those started with hatred… | by Anisha Swain | Coffee with the UI girl | Medium](https://medium.com/the-ui-girl/my-love-story-with-technology-aa2c4cb5d924) 
 - [How Stripe Designs Beautiful Websites – Lee Robinson](https://leerob.io/blog/how-stripe-designs-beautiful-websites) 
