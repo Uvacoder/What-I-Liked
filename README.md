@@ -96,6 +96,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### March 31, 2021 
+- [WTF is JAMstack?](https://jamstack.wtf/) 
 ### March 30, 2021 
 - [How to use SVG sprites (regular HTML vs React) | by Gineet Mehta | Medium](https://medium.com/@gineetmehta/how-to-use-svg-sprites-regular-html-vs-react-9f98948c03f0) 
 ### March 25, 2021 
