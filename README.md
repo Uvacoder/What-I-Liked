@@ -98,6 +98,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### April 9, 2021 
+- [10 Tips to Improve Your Mental Math Ability](https://gizmodo.com/10-tips-to-improve-your-mental-math-ability-1792597814) 
 ### April 5, 2021 
 - [Introduction to Mongoose for MongoDB](https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/) 
 ### March 31, 2021 
