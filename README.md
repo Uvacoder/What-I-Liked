@@ -99,6 +99,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### April 14, 2021 
+- [How to Create React Hooks: A Step-by-Step Guide](https://reedbarger.com/how-to-create-react-hooks/) 
 ### April 9, 2021 
 - [10 Tips to Improve Your Mental Math Ability](https://gizmodo.com/10-tips-to-improve-your-mental-math-ability-1792597814) 
 ### April 5, 2021 
