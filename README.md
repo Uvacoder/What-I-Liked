@@ -100,6 +100,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### April 16, 2021 
+- [WTH is SSR or CSR? When to use What? - DEV Community](https://dev.to/knackofabhinav/wth-is-ssr-or-csr-when-to-use-what-4lf8) 
 ### April 14, 2021 
 - [How to Create React Hooks: A Step-by-Step Guide](https://reedbarger.com/how-to-create-react-hooks/) 
 ### April 9, 2021 
