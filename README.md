@@ -104,6 +104,7 @@ Blog post, articles which I read on my daily basis.
 
 ### April 18, 2021 
 - [What is ether (ETH)? | ethereum.org](https://ethereum.org/en/eth/) 
+- [Add Google Analytics to your Next.js application in 5 easy steps](https://mariestarck.com/add-google-analytics-to-your-next-js-application-in-5-easy-steps/) 
 ### April 16, 2021 
 - [WTH is SSR or CSR? When to use What? - DEV Community](https://dev.to/knackofabhinav/wth-is-ssr-or-csr-when-to-use-what-4lf8) 
 ### April 14, 2021 
