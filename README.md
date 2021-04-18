@@ -101,6 +101,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### April 18, 2021 
+- [What is ether (ETH)? | ethereum.org](https://ethereum.org/en/eth/) 
 ### April 16, 2021 
 - [WTH is SSR or CSR? When to use What? - DEV Community](https://dev.to/knackofabhinav/wth-is-ssr-or-csr-when-to-use-what-4lf8) 
 ### April 14, 2021 
