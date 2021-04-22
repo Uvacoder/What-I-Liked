@@ -102,6 +102,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### April 23, 2021 
+- [Is Context Better than Redux?. When I learned about the React Context… | by Patricia Arnedo | Apr, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/is-context-better-than-redux-a3000e21ced9) 
 ### April 18, 2021 
 - [What is ether (ETH)? | ethereum.org](https://ethereum.org/en/eth/) 
 - [Add Google Analytics to your Next.js application in 5 easy steps](https://mariestarck.com/add-google-analytics-to-your-next-js-application-in-5-easy-steps/) 
