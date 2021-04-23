@@ -103,6 +103,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### April 24, 2021 
+- [Immutable Javascript using ES6 and beyond](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/) 
 ### April 23, 2021 
 - [Is Context Better than Redux?. When I learned about the React Context… | by Patricia Arnedo | Apr, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/is-context-better-than-redux-a3000e21ced9) 
 - [Pros and Cons of using immutability with React.js - React Kung Fu](https://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/) 
