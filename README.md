@@ -104,6 +104,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### April 29, 2021 
+- [A Definitive Guide to Blogging as a Developer](https://iamshadmirza.com/a-definitive-guide-to-blogging-as-a-developer) 
 ### April 24, 2021 
 - [Immutable Javascript using ES6 and beyond](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/) 
 ### April 23, 2021 
