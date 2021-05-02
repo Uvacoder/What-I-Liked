@@ -105,6 +105,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 2, 2021 
+- [React — Beyond the basics (excluding hooks): Context, Errors, Refs, HOCs, Render Props. | by GM Fuster | Nerd For Tech | Apr, 2021 | Medium](https://medium.com/nerd-for-tech/react-beyond-the-basics-excluding-hooks-context-errors-refs-hocs-render-props-52df90d61229) 
 ### April 29, 2021 
 - [A Definitive Guide to Blogging as a Developer](https://iamshadmirza.com/a-definitive-guide-to-blogging-as-a-developer) 
 ### April 24, 2021 
