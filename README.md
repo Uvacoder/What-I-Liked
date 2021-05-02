@@ -108,6 +108,7 @@ Blog post, articles which I read on my daily basis.
 
 ### May 2, 2021 
 - [React — Beyond the basics (excluding hooks): Context, Errors, Refs, HOCs, Render Props. | by GM Fuster | Nerd For Tech | Apr, 2021 | Medium](https://medium.com/nerd-for-tech/react-beyond-the-basics-excluding-hooks-context-errors-refs-hocs-render-props-52df90d61229) 
+- [Why You Should Not Use Classes in JavaScript | by David Fekke | Apr, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/why-you-should-not-use-classes-in-javascript-ca960d13c625) 
 ### April 29, 2021 
 - [A Definitive Guide to Blogging as a Developer](https://iamshadmirza.com/a-definitive-guide-to-blogging-as-a-developer) 
 ### April 24, 2021 
