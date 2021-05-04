@@ -106,6 +106,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 4, 2021 
+- [Invest in Yourself – ABNUX](https://www.loom.com/share/2658141637dc48f48e1bdb757005a9d8) 
 ### May 2, 2021 
 - [React — Beyond the basics (excluding hooks): Context, Errors, Refs, HOCs, Render Props. | by GM Fuster | Nerd For Tech | Apr, 2021 | Medium](https://medium.com/nerd-for-tech/react-beyond-the-basics-excluding-hooks-context-errors-refs-hocs-render-props-52df90d61229) 
 - [Why You Should Not Use Classes in JavaScript | by David Fekke | Apr, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/why-you-should-not-use-classes-in-javascript-ca960d13c625) 
