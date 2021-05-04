@@ -107,6 +107,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 5, 2021 
+- [You have to know closures to be a (good) React developer | by Nitsan Cohen | May, 2021 | Medium](https://nitsancohen770.medium.com/you-have-to-know-closures-to-be-a-good-react-developer-104fc2f6cd70) 
 ### May 4, 2021 
 - [Invest in Yourself – ABNUX](https://www.loom.com/share/2658141637dc48f48e1bdb757005a9d8) 
 ### May 2, 2021 
