@@ -108,6 +108,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 6, 2021 
+- [DSA for FE devs? - tanaypratap's letters](https://tanaypratap.substack.com/p/dsa-for-fe-devs) 
 ### May 5, 2021 
 - [You have to know closures to be a (good) React developer | by Nitsan Cohen | May, 2021 | Medium](https://nitsancohen770.medium.com/you-have-to-know-closures-to-be-a-good-react-developer-104fc2f6cd70) 
 - [Why Everyone Should Join a Smart Contract or Blockchain Hackathon | by Patrick Collins | Better Programming](https://betterprogramming.pub/why-everyone-should-join-a-smart-contract-or-blockchain-hackathon-af3072d7aaa2) 
