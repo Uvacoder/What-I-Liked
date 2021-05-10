@@ -109,6 +109,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 10, 2021 
+- [Learn CSS Media Queries by Building Three Projects](https://www.freecodecamp.org/news/learn-css-media-queries-by-building-projects/) 
 ### May 6, 2021 
 - [DSA for FE devs? - tanaypratap's letters](https://tanaypratap.substack.com/p/dsa-for-fe-devs) 
 ### May 5, 2021 
