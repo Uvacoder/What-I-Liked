@@ -111,6 +111,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 12, 2021 
+- [Case study: Redefining product discovery at Razorpay | by Paritosh Kumra | Bootcamp](https://bootcamp.uxdesign.cc/case-study-redefining-product-discovery-at-razorpay-4d3377619924) 
 ### May 11, 2021 
 - [Time and Space Complexity | All Posts](https://rohitdhatrak.netlify.app/time-space-complexity/) 
 ### May 10, 2021 
