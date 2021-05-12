@@ -114,6 +114,7 @@ Blog post, articles which I read on my daily basis.
 
 ### May 12, 2021 
 - [Case study: Redefining product discovery at Razorpay | by Paritosh Kumra | Bootcamp](https://bootcamp.uxdesign.cc/case-study-redefining-product-discovery-at-razorpay-4d3377619924) 
+- [JavaScript 101 — Day 1 of 3. First blog of the Full Stack… | by Prasad Jayakumar | Four Dots | Medium](https://medium.com/fourdots/javascript-101-day-1-of-3-c8dbce99b1be) 
 ### May 11, 2021 
 - [Time and Space Complexity | All Posts](https://rohitdhatrak.netlify.app/time-space-complexity/) 
 ### May 10, 2021 
