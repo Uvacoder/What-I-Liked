@@ -112,6 +112,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 14, 2021 
+- [this and bind() in Javascript](https://reeversedev.com/this-and-bind-in-javascript) 
 ### May 12, 2021 
 - [Case study: Redefining product discovery at Razorpay | by Paritosh Kumra | Bootcamp](https://bootcamp.uxdesign.cc/case-study-redefining-product-discovery-at-razorpay-4d3377619924) 
 - [JavaScript 101 — Day 1 of 3. First blog of the Full Stack… | by Prasad Jayakumar | Four Dots | Medium](https://medium.com/fourdots/javascript-101-day-1-of-3-c8dbce99b1be) 
