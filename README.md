@@ -116,6 +116,7 @@ Blog post, articles which I read on my daily basis.
 
 ### May 15, 2021 
 - [What Happened When Bitcoin Creator Satoshi Nakamoto Disappeared - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/technical/what-happened-when-bitcoin-creator-satoshi-nakamoto-disappeared) 
+- [Add Crypto to IndiaStack](https://balajis.com/add-crypto-to-indiastack/) 
 ### May 14, 2021 
 - [this and bind() in Javascript](https://reeversedev.com/this-and-bind-in-javascript) 
 ### May 12, 2021 
