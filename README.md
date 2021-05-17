@@ -114,6 +114,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 18, 2021 
+- [The $4bn Indian Unicorn You (Probably) Don't Know But You NEED To Hear About - Tigerfeathers!](https://tigerfeathers.substack.com/p/the-4bn-indian-unicorn-you-probably) 
 ### May 15, 2021 
 - [What Happened When Bitcoin Creator Satoshi Nakamoto Disappeared - Bitcoin Magazine: Bitcoin News, Articles, Charts, and Guides](https://bitcoinmagazine.com/technical/what-happened-when-bitcoin-creator-satoshi-nakamoto-disappeared) 
 - [Add Crypto to IndiaStack](https://balajis.com/add-crypto-to-indiastack/) 
