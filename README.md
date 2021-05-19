@@ -118,6 +118,7 @@ Blog post, articles which I read on my daily basis.
 
 ### May 19, 2021 
 - [47-tips-for-young-product-designers](https://www.godgeez.com/writing/47-tips-for-young-product-designers) 
+- [Invest in planning your career](https://www.godgeez.com/writing/invest-in-planning-your-career) 
 ### May 18, 2021 
 - [The $4bn Indian Unicorn You (Probably) Don't Know But You NEED To Hear About - Tigerfeathers!](https://tigerfeathers.substack.com/p/the-4bn-indian-unicorn-you-probably) 
 ### May 15, 2021 
