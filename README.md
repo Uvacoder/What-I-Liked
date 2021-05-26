@@ -119,6 +119,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 27, 2021 
+- [Become a Pro at Figma. If you’re in the design world, you’ve… | by Roma Patel | theCOOP.cc | May, 2021 | Medium](https://medium.com/thecoop-cc/become-a-pro-at-figma-aece9cc7d5c7) 
 ### May 25, 2021 
 - [Building a Design System Library. How we created the Lyft Product… | by Jeremy D. | Lyft Design+](https://design.lyft.com/building-a-design-system-library-3a1f0d09088f) 
 ### May 23, 2021 
