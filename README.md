@@ -124,6 +124,7 @@ Blog post, articles which I read on my daily basis.
 - [Become a Pro at Figma. If you’re in the design world, you’ve… | by Roma Patel | theCOOP.cc | May, 2021 | Medium](https://medium.com/thecoop-cc/become-a-pro-at-figma-aece9cc7d5c7) 
 - [How does blockchain really work? I built an app to show you. | by Sean Han | We’ve moved to freeCodeCamp.org/news | Medium](https://medium.com/free-code-camp/how-does-blockchain-really-work-i-built-an-app-to-show-you-6b70cd4caf7d) 
 - [Adrien Gervaix — Freelance Product / UX Designer](https://adriengervaix.com/casestudies/colllect.html) 
+- [Building A Stocks Price Notifier App Using React, Apollo GraphQL And Hasura — Smashing Magazine](https://www.smashingmagazine.com/2020/12/stocks-price-notifier-app-react-apollo-graphql-hasura/) 
 ### May 25, 2021 
 - [Building a Design System Library. How we created the Lyft Product… | by Jeremy D. | Lyft Design+](https://design.lyft.com/building-a-design-system-library-3a1f0d09088f) 
 ### May 23, 2021 
