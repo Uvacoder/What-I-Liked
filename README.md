@@ -126,6 +126,7 @@ Blog post, articles which I read on my daily basis.
 - [Adrien Gervaix — Freelance Product / UX Designer](https://adriengervaix.com/casestudies/colllect.html) 
 - [Building A Stocks Price Notifier App Using React, Apollo GraphQL And Hasura — Smashing Magazine](https://www.smashingmagazine.com/2020/12/stocks-price-notifier-app-react-apollo-graphql-hasura/) 
 - [How I (re)built the Medium clap effect — and what I got out of the experiment.](https://www.freecodecamp.org/news/how-i-re-built-the-medium-clap-effect-and-what-i-got-out-of-the-experiment-991672995fdf/) 
+- [How I (re)built the Medium clap effect — and what I got out of the experiment.](https://www.freecodecamp.org/news/how-i-re-built-the-medium-clap-effect-and-what-i-got-out-of-the-experiment-991672995fdf/) 
 ### May 25, 2021 
 - [Building a Design System Library. How we created the Lyft Product… | by Jeremy D. | Lyft Design+](https://design.lyft.com/building-a-design-system-library-3a1f0d09088f) 
 ### May 23, 2021 
