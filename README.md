@@ -120,6 +120,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 28, 2021 
+- [Why I’m Thankful for JS Fatigue. I know you’re sick of those words, but this is different. | by Eric Elliott | JavaScript Scene | Medium](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f) 
 ### May 27, 2021 
 - [Become a Pro at Figma. If you’re in the design world, you’ve… | by Roma Patel | theCOOP.cc | May, 2021 | Medium](https://medium.com/thecoop-cc/become-a-pro-at-figma-aece9cc7d5c7) 
 - [How does blockchain really work? I built an app to show you. | by Sean Han | We’ve moved to freeCodeCamp.org/news | Medium](https://medium.com/free-code-camp/how-does-blockchain-really-work-i-built-an-app-to-show-you-6b70cd4caf7d) 
