@@ -121,6 +121,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 30, 2021 
+- [What Is a Pure Function in JavaScript?](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/) 
 ### May 28, 2021 
 - [Why I’m Thankful for JS Fatigue. I know you’re sick of those words, but this is different. | by Eric Elliott | JavaScript Scene | Medium](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f) 
 - [15. On Burnout](https://sid.st/post/burnout/) 
