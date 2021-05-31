@@ -122,6 +122,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### May 31, 2021 
+- [The Vault - Nguyen's Design Resource stash](https://www.notion.so/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9) 
 ### May 30, 2021 
 - [What Is a Pure Function in JavaScript?](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/) 
 ### May 28, 2021 
