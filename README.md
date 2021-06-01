@@ -123,6 +123,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### June 1, 2021 
+- [Picking which cryptos to buy - a value investing approach : CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/comments/npr2px/picking_which_cryptos_to_buy_a_value_investing/?utm_source=dlvr.it&utm_medium=twitter) 
 ### May 31, 2021 
 - [The Vault - Nguyen's Design Resource stash](https://www.notion.so/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9) 
 ### May 30, 2021 
