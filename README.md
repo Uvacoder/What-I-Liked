@@ -128,6 +128,7 @@ Blog post, articles which I read on my daily basis.
 
 ### June 3, 2021 
 - [7 Rejections. On June 26, 2008, our friend Michael… | by Brian Chesky | Medium](https://medium.com/@bchesky/7-rejections-7d894cbaa084) 
+- [Prastut Kumar](https://prastutkumar.com/) 
 ### June 2, 2021 
 - [Notes on Mental Models for Success | Paras Chopra in conversation with Kunal Shah](https://www.notion.so/Notes-on-Mental-Models-for-Success-Paras-Chopra-in-conversation-with-Kunal-Shah-325ed42c10c041448dba9f15b4c889dd) 
 - [Blockchain Coder | BUIDL Labs](https://buidllabs.io/jobs/1/#) 
