@@ -127,6 +127,7 @@ Blog post, articles which I read on my daily basis.
 
 ### June 2, 2021 
 - [Notes on Mental Models for Success | Paras Chopra in conversation with Kunal Shah](https://www.notion.so/Notes-on-Mental-Models-for-Success-Paras-Chopra-in-conversation-with-Kunal-Shah-325ed42c10c041448dba9f15b4c889dd) 
+- [Blockchain Coder | BUIDL Labs](https://buidllabs.io/jobs/1/#) 
 ### June 1, 2021 
 - [Picking which cryptos to buy - a value investing approach : CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/comments/npr2px/picking_which_cryptos_to_buy_a_value_investing/?utm_source=dlvr.it&utm_medium=twitter) 
 - [Building a startup in public: from first line of code to frontpage of Reddit](https://levels.io/hoodmaps/) 
