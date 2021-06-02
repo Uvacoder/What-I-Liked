@@ -130,6 +130,7 @@ Blog post, articles which I read on my daily basis.
 - [Blockchain Coder | BUIDL Labs](https://buidllabs.io/jobs/1/#) 
 - [Build a Team that Ships](https://nav.al/build-a-team-that-ships) 
 - [Flow: How to enjoy work.](https://yctheman.com/flow-how-to-enjoy-work/) 
+- [(3) Naval on Twitter: "You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom." / Twitter](https://twitter.com/naval/status/1002103670400417792) 
 ### June 1, 2021 
 - [Picking which cryptos to buy - a value investing approach : CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/comments/npr2px/picking_which_cryptos_to_buy_a_value_investing/?utm_source=dlvr.it&utm_medium=twitter) 
 - [Building a startup in public: from first line of code to frontpage of Reddit](https://levels.io/hoodmaps/) 
