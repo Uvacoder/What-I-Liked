@@ -132,6 +132,7 @@ Blog post, articles which I read on my daily basis.
 - [Flow: How to enjoy work.](https://yctheman.com/flow-how-to-enjoy-work/) 
 - [(3) Naval on Twitter: "You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom." / Twitter](https://twitter.com/naval/status/1002103670400417792) 
 - [(3) Naval on Twitter: "You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom." / Twitter](https://twitter.com/naval/status/1002103670400417792?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=https%3A%2F%2Fwww.notion.so%2FCompensation-Framework-aca6778377374c8080c2467b3d57f561) 
+- [How to Make Wealth](http://www.paulgraham.com/wealth.html) 
 ### June 1, 2021 
 - [Picking which cryptos to buy - a value investing approach : CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/comments/npr2px/picking_which_cryptos_to_buy_a_value_investing/?utm_source=dlvr.it&utm_medium=twitter) 
 - [Building a startup in public: from first line of code to frontpage of Reddit](https://levels.io/hoodmaps/) 
