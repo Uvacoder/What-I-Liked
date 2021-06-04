@@ -126,6 +126,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### June 4, 2021 
+- [Typeplay: Play, Discover, Maintain and Pair Typefaces | by Kushal yadav | Medium](https://kushalyadav95.medium.com/typeplay-play-discover-maintain-and-pair-typefaces-4674e8593244) 
 ### June 3, 2021 
 - [7 Rejections. On June 26, 2008, our friend Michael… | by Brian Chesky | Medium](https://medium.com/@bchesky/7-rejections-7d894cbaa084) 
 - [Prastut Kumar](https://prastutkumar.com/) 
