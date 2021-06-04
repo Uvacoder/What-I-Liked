@@ -130,6 +130,7 @@ Blog post, articles which I read on my daily basis.
 ### June 4, 2021 
 - [Typeplay: Play, Discover, Maintain and Pair Typefaces | by Kushal yadav | Medium](https://kushalyadav95.medium.com/typeplay-play-discover-maintain-and-pair-typefaces-4674e8593244) 
 - [Nader Ξ Dabit on Twitter: "I went from zero to building full stack apps with Solidity, React, &amp; Ethereum in a couple of months to prepare for my role at @edgeandnode Here is a crash course of 16 high quality resources, tutorials, and videos I'd recommend for anyone looking to do the same (thread) 👇" / Twitter](https://twitter.com/dabit3/status/1400784178359189506) 
+- [Mnemonic Generation (BIP39) Simply Explained | by Aniket | Coinmonks | Medium](https://medium.com/coinmonks/mnemonic-generation-bip39-simply-explained-e9ac18db9477) 
 ### June 3, 2021 
 - [7 Rejections. On June 26, 2008, our friend Michael… | by Brian Chesky | Medium](https://medium.com/@bchesky/7-rejections-7d894cbaa084) 
 - [Prastut Kumar](https://prastutkumar.com/) 
