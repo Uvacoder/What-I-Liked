@@ -127,6 +127,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### June 5, 2021 
+- [The Front-End Design Checklist. An Exhaustive List of all the Elements… | by David Dias | codeburst](https://codeburst.io/the-front-end-design-checklist-4dd15828fad) 
 ### June 4, 2021 
 - [Typeplay: Play, Discover, Maintain and Pair Typefaces | by Kushal yadav | Medium](https://kushalyadav95.medium.com/typeplay-play-discover-maintain-and-pair-typefaces-4674e8593244) 
 - [Nader Ξ Dabit on Twitter: "I went from zero to building full stack apps with Solidity, React, &amp; Ethereum in a couple of months to prepare for my role at @edgeandnode Here is a crash course of 16 high quality resources, tutorials, and videos I'd recommend for anyone looking to do the same (thread) 👇" / Twitter](https://twitter.com/dabit3/status/1400784178359189506) 
