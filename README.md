@@ -128,6 +128,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### June 10, 2021 
+- [Reference vs Primitive Values](https://academind.com/tutorials/reference-vs-primitive-values/) 
 ### June 5, 2021 
 - [The Front-End Design Checklist. An Exhaustive List of all the Elements… | by David Dias | codeburst](https://codeburst.io/the-front-end-design-checklist-4dd15828fad) 
 - [Mentoring - A natural process](https://kamleshchandnani.com/articles/mentoring-a-natural-process) 
