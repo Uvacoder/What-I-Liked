@@ -130,6 +130,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### June 12, 2021 
+- [Let’s clear up the confusion around the slice( ), splice( ), & split( ) methods in JavaScript](https://www.freecodecamp.org/news/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae/) 
 ### June 11, 2021 
 - [Creating a Reusable Grid System in React - DEV Community](https://dev.to/jarodpeachey/creating-a-reusable-grid-system-in-react-2p47#:~:text=To%20add%20the%20grid%20functionality,8px%200%20%2D8px%3B%20%7D%20%60%3B) 
 ### June 10, 2021 
