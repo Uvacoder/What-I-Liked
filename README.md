@@ -131,6 +131,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### June 15, 2021 
+- [Principled Pragmatism - Superpumped](https://superpumped.substack.com/p/crypto-pragmatism) 
 ### June 12, 2021 
 - [Let’s clear up the confusion around the slice( ), splice( ), & split( ) methods in JavaScript](https://www.freecodecamp.org/news/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae/) 
 ### June 11, 2021 
