@@ -132,6 +132,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### June 19, 2021 
+- [MongoDB - Tips Beyond ORMs](https://normalzao.hashnode.dev/mongodb-tips-beyond-orms) 
 ### June 15, 2021 
 - [Principled Pragmatism - Superpumped](https://superpumped.substack.com/p/crypto-pragmatism) 
 ### June 12, 2021 
