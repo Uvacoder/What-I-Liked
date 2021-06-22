@@ -136,6 +136,7 @@ Blog post, articles which I read on my daily basis.
 
 ### June 22, 2021 
 - [4 Examples of the useState Hook](https://daveceddia.com/usestate-hook-examples/) 
+- [Pick Up What They Put Down](https://www.swyx.io/puwtpd/) 
 ### June 19, 2021 
 - [MongoDB - Tips Beyond ORMs](https://normalzao.hashnode.dev/mongodb-tips-beyond-orms) 
 ### June 15, 2021 
