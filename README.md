@@ -138,6 +138,7 @@ Blog post, articles which I read on my daily basis.
 - [4 Examples of the useState Hook](https://daveceddia.com/usestate-hook-examples/) 
 - [Pick Up What They Put Down](https://www.swyx.io/puwtpd/) 
 - [Every developer should have a blog. Here’s why, and how to stick with it.](https://www.freecodecamp.org/news/every-developer-should-have-a-blog-heres-why-and-how-to-stick-with-it-5fd55a247fbf/) 
+- [Pick Up What They Put Down](https://www.swyx.io/puwtpd/) 
 ### June 19, 2021 
 - [MongoDB - Tips Beyond ORMs](https://normalzao.hashnode.dev/mongodb-tips-beyond-orms) 
 ### June 15, 2021 
