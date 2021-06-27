@@ -140,6 +140,7 @@ Blog post, articles which I read on my daily basis.
 - [3 Month Coding Interview Preparation Bootcamp | by Fahim ul Haq | educative | Medium](https://medium.com/educative/3-month-coding-interview-bootcamp-904422926ce8) 
 - [(11) Average to Googler in Four Weeks: A Study Plan | LinkedIn](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/) 
 - [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university) 
+- [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/) 
 ### June 25, 2021 
 - [Component Based Design System With Styled-System | Varun Vachhar](https://varun.ca/styled-system/) 
 ### June 22, 2021 
