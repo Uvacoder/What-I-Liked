@@ -137,6 +137,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### June 29, 2021 
+- [Ace the Behavioral or HR Interview using the STAR Technique](https://workat.tech/general/article/ace-behavioral-interview-star-technique-igsg09rw2u1a) 
 ### June 28, 2021 
 - [The Great Divide | CSS-Tricks](https://css-tricks.com/the-great-divide/#top-of-site) 
 - [The Importance of Learning CSS](https://www.joshwcomeau.com/css/the-importance-of-learning-css/) 
