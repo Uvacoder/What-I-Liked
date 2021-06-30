@@ -138,6 +138,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### June 30, 2021 
+- [Examples of the useReducer Hook](https://daveceddia.com/usereducer-hook-examples/) 
 ### June 29, 2021 
 - [Ace the Behavioral or HR Interview using the STAR Technique](https://workat.tech/general/article/ace-behavioral-interview-star-technique-igsg09rw2u1a) 
 ### June 28, 2021 
