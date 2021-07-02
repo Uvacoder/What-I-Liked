@@ -140,6 +140,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### July 3, 2021 
+- [Fullstack Project Planning - DEV Community](https://dev.to/thecodepixi/fullstack-project-planning-3jml) 
 ### July 2, 2021 
 - [How to learn React.js in 2020 - RWieruch](https://www.robinwieruch.de/learn-react-js) 
 ### June 30, 2021 
