@@ -139,6 +139,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### July 2, 2021 
+- [How to learn React.js in 2020 - RWieruch](https://www.robinwieruch.de/learn-react-js) 
 ### June 30, 2021 
 - [Examples of the useReducer Hook](https://daveceddia.com/usereducer-hook-examples/) 
 - [Understanding the React useReducer Hook ← Alligator.io](https://alligator.io/react/usereducer/) 
