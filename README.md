@@ -141,6 +141,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### July 5, 2021 
+- [React's useCallback and useMemo Hooks By Example](https://nikgrozev.com/2019/04/07/reacts-usecallback-and-usememo-hooks-by-example/) 
 ### July 3, 2021 
 - [Fullstack Project Planning - DEV Community](https://dev.to/thecodepixi/fullstack-project-planning-3jml) 
 - [How to plan step by step a Full-stack Application | by Musta | Medium](https://moustafamm.medium.com/how-to-plan-step-by-step-a-full-stack-application-ee4e842d55f2) 
