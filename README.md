@@ -146,6 +146,7 @@ Blog post, articles which I read on my daily basis.
 ### July 6, 2021 
 - [How to Learn Solidity in 30 days. Over the past month, I spent my free… | by Tom Terado | Coinmonks | Medium](https://medium.com/coinmonks/how-to-learn-solidity-in-30-days-78b02e503d23) 
 - [ReactJS Best Practices | Clean React | Better Programming](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb) 
+- [Why Startups Hiring Senior Developers Can Be a Huge Mistake | by Mohammad Faisal | May, 2021 | Better Programming](https://betterprogramming.pub/why-startups-hiring-senior-developers-can-be-a-huge-mistake-c7dfa3f88a40) 
 ### July 5, 2021 
 - [React's useCallback and useMemo Hooks By Example](https://nikgrozev.com/2019/04/07/reacts-usecallback-and-usememo-hooks-by-example/) 
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback) 
