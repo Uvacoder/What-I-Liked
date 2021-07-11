@@ -147,6 +147,7 @@ Blog post, articles which I read on my daily basis.
 
 ### July 11, 2021 
 - [https://neog.camp/roadmap](https://neog.camp/roadmap) 
+- [Smakosh | Get paid while you're learning, working at a startup](https://smakosh.com/get-paid-while-you-are-learning-working-at-a-startup) 
 ### July 9, 2021 
 - [Just enough CSS for a blog](https://niklasfasching.de/posts/just-enough-css/) 
 - [Learn Enough CSS & Layout to Be Dangerous | Learn Enough to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial) 
