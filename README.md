@@ -145,6 +145,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### July 12, 2021 
+- [The Beginner Programmer's guide to Problem Solving [With Example] - CodeProject](https://www.codeproject.com/Tips/833768/The-Beginner-Programmers-guide-to-Problem-Solving) 
 ### July 11, 2021 
 - [https://neog.camp/roadmap](https://neog.camp/roadmap) 
 - [Smakosh | Get paid while you're learning, working at a startup](https://smakosh.com/get-paid-while-you-are-learning-working-at-a-startup) 
