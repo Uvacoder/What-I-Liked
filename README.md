@@ -146,6 +146,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### July 16, 2021 
+- [Six months of Hashnode: My journey as a full-time dev](https://meghapathak.com/six-months-of-hashnode-my-journey-as-a-full-time-dev) 
 ### July 12, 2021 
 - [The Beginner Programmer's guide to Problem Solving [With Example] - CodeProject](https://www.codeproject.com/Tips/833768/The-Beginner-Programmers-guide-to-Problem-Solving) 
 ### July 11, 2021 
