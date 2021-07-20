@@ -148,6 +148,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### July 20, 2021 
+- [Javascript’s __proto__ vs prototype | by Nilanjan 🌱🌱 | Jun, 2021 | Level Up Coding](https://levelup.gitconnected.com/javascripts-proto-vs-prototype-a21ec7f25bc1) 
 ### July 18, 2021 
 - [Your guide to basic SQL while learning Ethereum at the same time | by Andrew Hong | Towards Data Science](https://towardsdatascience.com/your-guide-to-basic-sql-while-learning-ethereum-at-the-same-time-9eac17a05929) 
 ### July 16, 2021 
