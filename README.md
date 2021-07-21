@@ -152,6 +152,7 @@ Blog post, articles which I read on my daily basis.
 
 ### July 22, 2021 
 - [JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/) 
+- [UI/UX Case Study — Enabling users to book tickets seamlessly with least friction | by Vanshika | Jun, 2021 | Muzli - Design Inspiration](https://medium.muz.li/ui-ux-case-study-enabling-users-to-book-tickets-seamlessly-with-least-friction-fce2c5f1d2db) 
 ### July 20, 2021 
 - [Javascript’s __proto__ vs prototype | by Nilanjan 🌱🌱 | Jun, 2021 | Level Up Coding](https://levelup.gitconnected.com/javascripts-proto-vs-prototype-a21ec7f25bc1) 
 ### July 18, 2021 
