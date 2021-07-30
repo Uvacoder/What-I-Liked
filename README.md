@@ -151,6 +151,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### July 30, 2021 
+- [Coding An HTML 5 Layout From Scratch — Smashing Magazine](https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/) 
 ### July 23, 2021 
 - [Virtual DOM in ReactJS. In this post, we will discuss what is… | by Rupesh Mishra | Medium](https://medium.com/@happymishra66/virtual-dom-in-reactjs-43a3fdb1d130) 
 - [Virtual DOM in ReactJS. In this post, we will discuss what is… | by Rupesh Mishra | Medium](https://medium.com/@happymishra66/virtual-dom-in-reactjs-43a3fdb1d130) 
