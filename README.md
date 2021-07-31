@@ -156,6 +156,7 @@ Blog post, articles which I read on my daily basis.
 ### July 31, 2021 
 - [Just Enough CSS for Web Developers · Issue #26 · learncodingfree/learnCodingFree.org](https://github.com/learncodingfree/learnCodingFree.org/issues/26) 
 - [hail2u/html-best-practices: For writing maintainable and scalable HTML documents](https://github.com/hail2u/html-best-practices) 
+- [How to learn React.js - RWieruch](https://www.robinwieruch.de/learn-react-js) 
 ### July 30, 2021 
 - [Coding An HTML 5 Layout From Scratch — Smashing Magazine](https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/) 
 - [Best Way To Learn Solidity For Beginners - EatTheBlocks](https://eattheblocks.com/best-way-to-learn-solidity-for-beginners/) 
