@@ -153,6 +153,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 1, 2021 
+- [Create your design system, part 3: Colors | by Sebastiano Guerriero | CodyHouse | Medium](https://medium.com/codyhouse/create-your-design-system-part-3-colors-798e4729921f) 
 ### July 31, 2021 
 - [Just Enough CSS for Web Developers · Issue #26 · learncodingfree/learnCodingFree.org](https://github.com/learncodingfree/learnCodingFree.org/issues/26) 
 - [hail2u/html-best-practices: For writing maintainable and scalable HTML documents](https://github.com/hail2u/html-best-practices) 
