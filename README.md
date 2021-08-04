@@ -157,6 +157,7 @@ Blog post, articles which I read on my daily basis.
 
 ### August 4, 2021 
 - [All my career rejections - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html) 
+- [Book - Scalable and Modular Architecture for CSS](http://smacss.com/book/) 
 ### August 1, 2021 
 - [Create your design system, part 3: Colors | by Sebastiano Guerriero | CodyHouse | Medium](https://medium.com/codyhouse/create-your-design-system-part-3-colors-798e4729921f) 
 - [Create your design system, part 3: Colors | by Sebastiano Guerriero | CodyHouse | Medium](https://medium.com/codyhouse/create-your-design-system-part-3-colors-798e4729921f) 
