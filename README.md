@@ -155,6 +155,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 5, 2021 
+- [Top 50 Data Structure and Algorithms Interview Questions for Programmers | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) 
 ### August 4, 2021 
 - [All my career rejections - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/allmyrejections.html) 
 - [Book - Scalable and Modular Architecture for CSS](http://smacss.com/book/) 
