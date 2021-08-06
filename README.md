@@ -156,6 +156,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 6, 2021 
+- [Case study: a Wish design system color story | by Tammy Taabassum | Bootcamp](https://bootcamp.uxdesign.cc/a-wish-design-system-color-story-ef2c38de97e) 
 ### August 5, 2021 
 - [Top 50 Data Structure and Algorithms Interview Questions for Programmers | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) 
 - [Lessons learned from the smartest Software Engineer I’ve met | Medium](https://svpino.com/lessons-learned-from-the-smartest-software-engineer-ive-met-35895ac9fe3a) 
