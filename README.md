@@ -157,6 +157,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 9, 2021 
+- [10 JavaScript concepts you need to know for interviews | by Arnav Aggarwal | codeburst](https://codeburst.io/10-javascript-concepts-you-need-to-know-for-interviews-136df65ecce) 
 ### August 6, 2021 
 - [Case study: a Wish design system color story | by Tammy Taabassum | Bootcamp](https://bootcamp.uxdesign.cc/a-wish-design-system-color-story-ef2c38de97e) 
 ### August 5, 2021 
