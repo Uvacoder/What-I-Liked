@@ -161,6 +161,7 @@ Blog post, articles which I read on my daily basis.
 
 ### August 11, 2021 
 - [7 Repos I Didn’t Know I Needed For Front-End | by Anurag Kanoria | JavaScript in Plain English](https://javascript.plainenglish.io/7-repos-i-didnt-know-i-needed-for-front-end-389bf498afaa) 
+- [Mastering Fullstack Development: Learn How to Build Modern Web Apps - Thinkster](https://thinkster.io/tutorials/fullstack) 
 ### August 9, 2021 
 - [10 JavaScript concepts you need to know for interviews | by Arnav Aggarwal | codeburst](https://codeburst.io/10-javascript-concepts-you-need-to-know-for-interviews-136df65ecce) 
 ### August 6, 2021 
