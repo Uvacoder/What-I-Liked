@@ -163,6 +163,7 @@ Blog post, articles which I read on my daily basis.
 ### August 17, 2021 
 - [Epic React — React Fundamentals. This is your go-to friend Kent C… | by Sujata Gunale | Aug, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/epic-react-react-fundamentals-cf76b6cedaf1) 
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) 
+- [DappOnline | Discovery the world's DApp](https://dapponline.io/) 
 ### August 11, 2021 
 - [7 Repos I Didn’t Know I Needed For Front-End | by Anurag Kanoria | JavaScript in Plain English](https://javascript.plainenglish.io/7-repos-i-didnt-know-i-needed-for-front-end-389bf498afaa) 
 - [Mastering Fullstack Development: Learn How to Build Modern Web Apps - Thinkster](https://thinkster.io/tutorials/fullstack) 
