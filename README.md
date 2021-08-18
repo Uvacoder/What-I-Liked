@@ -163,6 +163,7 @@ Blog post, articles which I read on my daily basis.
 
 ### August 18, 2021 
 - [GitHub - Koushith/What-I-Liked: Blog posts, articles which read on daily basis.](https://github.com/Koushith/What-I-Liked) 
+- [How to work effectively with designers and PMs](https://www.joshwcomeau.com/career/effective-collaboration/#develop-a-design-intuition) 
 ### August 17, 2021 
 - [Epic React — React Fundamentals. This is your go-to friend Kent C… | by Sujata Gunale | Aug, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/epic-react-react-fundamentals-cf76b6cedaf1) 
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) 
