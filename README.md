@@ -161,6 +161,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 19, 2021 
+- [How to write Blog without Motivation](https://iamshadmirza.com/how-to-write-blog-without-motivation) 
 ### August 18, 2021 
 - [GitHub - Koushith/What-I-Liked: Blog posts, articles which read on daily basis.](https://github.com/Koushith/What-I-Liked) 
 - [How to work effectively with designers and PMs](https://www.joshwcomeau.com/career/effective-collaboration/#develop-a-design-intuition) 
