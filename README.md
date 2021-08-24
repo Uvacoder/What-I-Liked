@@ -163,6 +163,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 24, 2021 
+- [ENS is Hiring! Come Build a New Decentralized Internet with Us | by Brantly Millegan | The Ethereum Name Service | Medium](https://medium.com/the-ethereum-name-service/ens-is-hiring-come-build-a-new-decentralized-internet-with-us-24398dea3ac) 
 ### August 23, 2021 
 - [How to Use Sleep for Your Success – Nyxo](https://nyxo.app/how-to-use-sleep-for-your-success) 
 ### August 19, 2021 
