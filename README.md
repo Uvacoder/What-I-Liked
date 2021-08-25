@@ -164,6 +164,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 25, 2021 
+- [Finding the right fit - by Tanay Pratap - tanaypratap's letters](https://tanaypratap.substack.com/p/finding-the-right-fit) 
 ### August 24, 2021 
 - [ENS is Hiring! Come Build a New Decentralized Internet with Us | by Brantly Millegan | The Ethereum Name Service | Medium](https://medium.com/the-ethereum-name-service/ens-is-hiring-come-build-a-new-decentralized-internet-with-us-24398dea3ac) 
 ### August 23, 2021 
