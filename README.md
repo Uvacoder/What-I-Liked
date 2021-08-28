@@ -166,6 +166,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 28, 2021 
+- [JavaScript Coding Practice Challenges — Strings | by Anh Dang | JavaScript in Plain English](https://javascript.plainenglish.io/javascript-coding-practice-challenges-strings-f2c9a98e8e5e) 
 ### August 27, 2021 
 - [React Clean Architecture. See how React Clean Architecture helps… | by KPITENG | Medium](https://kpiteng.medium.com/react-clean-architecture-e4144a0788b6) 
 - [JavaScript — Interview Preparation Guide (50 Output related questions) | by Ayush Verma | JavaScript in Plain English](https://javascript.plainenglish.io/50-javascript-output-questions-818d45c3e381) 
