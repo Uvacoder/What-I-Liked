@@ -167,6 +167,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### August 29, 2021 
+- [FullStack - How to create a working blogging website with pure HTML, CSS and JS in 2021. - DEV Community](https://dev.to/kunaal438/fullstack-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-9di) 
 ### August 28, 2021 
 - [JavaScript Coding Practice Challenges — Strings | by Anh Dang | JavaScript in Plain English](https://javascript.plainenglish.io/javascript-coding-practice-challenges-strings-f2c9a98e8e5e) 
 ### August 27, 2021 
