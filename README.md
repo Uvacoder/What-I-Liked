@@ -170,6 +170,9 @@ Blog post, articles which I read on my daily basis.
 
 
 
+
+### September 6, 2021 
+- [What I Wish I Knew About CSS When Starting Out As A Frontender | Kablamo Engineering Blog](https://engineering.kablamo.com.au/posts/2021/my-first-css) 
 ### September 2, 2021 
 - [The S.O.L.I.D Principles in Pictures | by Ugonna Thelma | Backticks & Tildes | Medium](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898) 
 - [Seven Underrated Side Hustles Most People Have Never Tried | by Tim Denning | The Startup | Medium](https://medium.com/swlh/seven-underrated-side-hustles-most-people-have-never-tried-5b071b9954f0) 
