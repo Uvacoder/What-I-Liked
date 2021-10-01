@@ -433,7 +433,6 @@ Blog post, articles which I read on my daily basis.
 ### February 4, 2021 
 - [Building Reusable React Components Using Tailwind — Smashing Magazine](https://www.smashingmagazine.com/2020/05/reusable-react-components-tailwind/) 
 - [Building Reusable React Components Using Tailwind — Smashing Magazine](https://www.smashingmagazine.com/2020/05/reusable-react-components-tailwind/) 
-- [Building Reusable React Components Using Tailwind — Smashing Magazine](https://www.smashingmagazine.com/2020/05/reusable-react-components-tailwind/) 
 ### February 2, 2021 
 - [The One Year Plan For Cracking Coding Interviews | by Anjali Viramgama | Towards Data Science](https://towardsdatascience.com/the-one-year-plan-for-competitive-coding-6af53f2f719c) 
 - [Use these four tactics to gauge your programming progress. | Level Up Coding](https://levelup.gitconnected.com/are-you-becoming-a-better-programmer-cb59fbf23085) 
