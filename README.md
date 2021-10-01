@@ -227,7 +227,6 @@ Blog post, articles which I read on my daily basis.
 - [Best Way To Learn Solidity For Beginners - EatTheBlocks](https://eattheblocks.com/best-way-to-learn-solidity-for-beginners/) 
 ### July 23, 2021 
 - [Virtual DOM in ReactJS. In this post, we will discuss what is… | by Rupesh Mishra | Medium](https://medium.com/@happymishra66/virtual-dom-in-reactjs-43a3fdb1d130) 
-- [Virtual DOM in ReactJS. In this post, we will discuss what is… | by Rupesh Mishra | Medium](https://medium.com/@happymishra66/virtual-dom-in-reactjs-43a3fdb1d130) 
 - [How I got my first job after failing for more than 300 times. | LearnersBucket](https://learnersbucket.com/tech/how-i-got-my-first-job-after-failing-for-more-than-300-times/) 
 ### July 22, 2021 
 - [JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts](https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/) 
