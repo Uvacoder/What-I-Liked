@@ -1,5 +1,5 @@
 # What-I-Liked. 
-Blog post, articles which I read on my daily basis.
+Blog post, articles which I read on my daily basis..
 
 ### October 6, 2021
 - [Why Learning to Code is So Damn Hard | Thinkful] (https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/]
