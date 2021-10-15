@@ -1,6 +1,14 @@
 # What-I-Liked.
 Blog post, articles which I read on my daily basis..
 
+### October 15, 2021
+
+https://dev.to/hellonehha/owe-your-own-career-growth-2k2c
+https://dev.to/hellonehha/what-the-heck-is-1-1-17j1
+https://dev.to/hellonehha/how-to-protect-your-time-at-work-1n1
+https://dev.to/hellonehha/how-i-get-100-out-of-remote-wfh-574j
+https://dev.to/hellonehha/how-to-manage-a-team-during-a-pandemic-48ee
+
 ### October 6, 2021
 - [Why Learning to Code is So Damn Hard | Thinkful] (https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/]
 
