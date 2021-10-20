@@ -1,6 +1,9 @@
 # What-I-Liked.
 Blog post, articles which I read on my daily basis.
 
+### October 20, 2021
+- [https://javascript.plainenglish.io/how-to-ace-a-ui-engineer-interview-1cfbdcf2ec83]
+
 ### October 19, 2021
 
 - [https://twitter.com/codeWithSimran/status/1450130423426666503] (https://twitter.com/codeWithSimran/status/1450130423426666503)
