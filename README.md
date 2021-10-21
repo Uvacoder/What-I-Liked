@@ -1,6 +1,10 @@
 # What-I-Liked.
 Blog post, articles which I read on my daily basis.
 
+### October 21, 2021
+
+- [https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f]
+
 ### October 20, 2021
 - [https://javascript.plainenglish.io/how-to-ace-a-ui-engineer-interview-1cfbdcf2ec83]
 
