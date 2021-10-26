@@ -5,6 +5,7 @@ Blog post, articles which I read on my daily basis.
 
 https://www.swyx.io/learn-in-public/
 https://nathanbarry.com/consumer-to-creator/
+- https://www.swyx.io/create-luck/
 
 ### October 21, 2021
 
