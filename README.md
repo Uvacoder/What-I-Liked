@@ -4,6 +4,7 @@ Blog post, articles which I read on my daily basis.
 ### October 26, 2021
 
 https://www.swyx.io/learn-in-public/
+https://nathanbarry.com/consumer-to-creator/
 
 ### October 21, 2021
 
