@@ -3,10 +3,11 @@ Blog post, articles which I read on my daily basis.
 
 ### October 26, 2021
 
-https://www.swyx.io/learn-in-public/
-https://nathanbarry.com/consumer-to-creator/
+- https://www.swyx.io/learn-in-public/
+- https://nathanbarry.com/consumer-to-creator/
 - https://www.swyx.io/create-luck/
-
+- https://www.smashingmagazine.com/2013/06/how-to-launch-anything/
+- https://kentcdodds.com/blog/intentional-career-building
 ### October 21, 2021
 
 - [https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f]
