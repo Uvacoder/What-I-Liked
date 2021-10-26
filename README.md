@@ -1,6 +1,10 @@
 # What-I-Liked..
 Blog post, articles which I read on my daily basis.
 
+### October 26, 2021
+
+https://www.swyx.io/learn-in-public/
+
 ### October 21, 2021
 
 - [https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f]
