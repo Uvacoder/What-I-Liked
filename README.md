@@ -1,6 +1,20 @@
 # What-I-Liked..
 Blog post, articles which I read on my daily basis.
 
+### October 28, 2021
+
+- https://blog.logrocket.com/building-photo-gallery-app-from-scratch-chakra-ui/
+- https://chakra-templates.dev/page-sections/features
+- https://chakra-templates.dev/page-sections/hero
+- https://reactwithhooks.netlify.app/docs/state-and-lifecycle.html
+- https://dev.to/asayerio_techblog/building-a-music-entertainment-application-with-reactjs-nextjs-algolia-and-firebase-3l0l
+- https://codesandbox.io/s/yvnxwn161j?file=/src/index.js
+- https://twitter.com/felix12777/status/1307691440391114752
+- https://www.acefrontend.com/challenges
+- https://www.codewell.cc/
+- https://stylestage.dev/styles/
+- https://coderbyte.com/challenges
+
 ### October 26, 2021
 
 - https://www.swyx.io/learn-in-public/
