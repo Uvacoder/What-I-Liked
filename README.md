@@ -1,6 +1,13 @@
 # What-I-Liked..
 Blog post, articles which I read on my daily basis.
 
+### October 31, 2021
+
+- https://uxdesign.cc/how-to-build-a-design-system-if-youre-the-only-designer-in-a-startup-f4695d2f4b7f
+- https://betterprogramming.pub/you-should-spend-more-time-doing-nothing-thats-when-you-actually-grow-21e85b7e343a
+- https://medium.com/@mehulchaturvedi/interview-preparation-roadmap-that-got-me-into-amazon-d357049a0a68
+- https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823
+
 ### October 28, 2021
 
 - https://blog.logrocket.com/building-photo-gallery-app-from-scratch-chakra-ui/
