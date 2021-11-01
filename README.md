@@ -1,6 +1,12 @@
 # What-I-Liked..
 Blog post, articles which I read on my daily basis.
 
+### November 1, 2021
+
+- https://docs.google.com/document/d/1QNxODVJDsu_rqjKJtDNlhE9S34XeajayG0rq5Xu0WNA/edit
+- https://docs.google.com/document/d/1QNxODVJDsu_rqjKJtDNlhE9S34XeajayG0rq5Xu0WNA/edit
+- https://www.akshaypruthi.com/post/hitting-a-creative-slowdown-what-should-one-do-to-get-out-of-it
+
 ### October 31, 2021
 
 - https://uxdesign.cc/how-to-build-a-design-system-if-youre-the-only-designer-in-a-startup-f4695d2f4b7f
