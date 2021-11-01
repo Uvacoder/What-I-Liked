@@ -6,6 +6,8 @@ Blog post, articles which I read on my daily basis.
 - https://docs.google.com/document/d/1QNxODVJDsu_rqjKJtDNlhE9S34XeajayG0rq5Xu0WNA/edit
 - https://docs.google.com/document/d/1QNxODVJDsu_rqjKJtDNlhE9S34XeajayG0rq5Xu0WNA/edit
 - https://www.akshaypruthi.com/post/hitting-a-creative-slowdown-what-should-one-do-to-get-out-of-it
+- https://www.akshaypruthi.com/post/how-do-we-make-better-decisions-in-life
+- https://www.akshaypruthi.com/post/live-in-the-present-what-does-it-mean
 
 ### October 31, 2021
 
