@@ -1,6 +1,10 @@
 # What-I-Liked..
 Blog post, articles which I read on my daily basis...
 
+### November 4, 2021
+
+-https://mvganeshkumar.hashnode.dev/introduction-to-data-structures
+
 ### November 1, 2021
 
 - https://docs.google.com/document/d/1QNxODVJDsu_rqjKJtDNlhE9S34XeajayG0rq5Xu0WNA/edit
