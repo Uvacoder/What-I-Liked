@@ -3,7 +3,7 @@ Blog post, articles which I read on my daily basis...
 
 ### November 4, 2021
 
--https://mvganeshkumar.hashnode.dev/introduction-to-data-structures
+- https://mvganeshkumar.hashnode.dev/introduction-to-data-structures
 
 ### November 1, 2021
 
