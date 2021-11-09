@@ -1,6 +1,12 @@
 # What-I-Liked..h
 Blog post, articles which I read on my daily basis....
 
+### November 09, 2021
+
+- https://javascript.plainenglish.io/zero-to-hero-web3-0-and-solidity-development-roadmap-2021-926e759a366b
+- https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b
+- https://lanting-natalie-ding.medium.com/top-react-js-interview-questions-explained-in-detail-4a1d38ce8ef5
+
 ### November 4, 2021
 
 - https://mvganeshkumar.hashnode.dev/introduction-to-data-structures
