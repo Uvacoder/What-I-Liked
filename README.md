@@ -6,6 +6,7 @@ Blog post, articles which I read on my daily basis....
 - https://javascript.plainenglish.io/zero-to-hero-web3-0-and-solidity-development-roadmap-2021-926e759a366b
 - https://azeynalli1990.medium.com/software-architecture-cheat-sheet-for-daily-usage-9923922ea75b
 - https://lanting-natalie-ding.medium.com/top-react-js-interview-questions-explained-in-detail-4a1d38ce8ef5
+- https://dev.to/dragosnedelcu/how-to-become-a-senior-developer-in-3-simple-steps-gc3
 
 ### November 4, 2021
 
