@@ -1,4 +1,4 @@
-# What-I-Liked..h
+# What-I-Liked.
 Blog post, articles which I read on my daily basis.
 
 ### November 09, 2021
