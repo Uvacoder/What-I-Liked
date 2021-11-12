@@ -1,6 +1,10 @@
 # What-I-Liked.
 Blog post, articles which I read on my daily basis.
 
+### November 12, 2021
+
+- https://daveceddia.com/what-react-does/
+
 ### November 09, 2021
 
 - https://javascript.plainenglish.io/zero-to-hero-web3-0-and-solidity-development-roadmap-2021-926e759a366b
