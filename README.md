@@ -1,6 +1,11 @@
 # What-I-Liked.
 Blog post, articles which I read on my daily basis...
 
+### November,  
+
+- https://daveceddia.com/how-i-learned-react/
+
+
 ### November 12, 2021
 
 - https://daveceddia.com/what-react-does/
