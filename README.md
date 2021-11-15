@@ -1,8 +1,9 @@
 # What-I-Liked.
 Blog post, articles which I read on my daily basis.
 
-### November,  
+### November 15, 2021
 
+- https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835
 - https://daveceddia.com/how-i-learned-react/
 
 
