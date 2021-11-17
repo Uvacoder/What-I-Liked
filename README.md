@@ -5,6 +5,7 @@ Blog post, articles which I read on my daily basis.
 
 - https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835
 - https://daveceddia.com/how-i-learned-react/
+- https://igorasilveira.medium.com/how-to-overcome-impostor-syndrome-as-a-developer-b257a5a9b76d
 
 
 ### November 12, 2021
