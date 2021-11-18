@@ -1,5 +1,9 @@
 # What-I-Liked.
-Blog post, articles which I read on my daily basis.
+Blog post, articles which I read on my daily basis..
+
+### November 18, 2021
+
+- https://medium.com/@indiedev/clean-architecture-in-frontend-react-redux-typescript-bd108ddd13f7
 
 ### November 15, 2021
 
