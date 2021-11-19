@@ -1,5 +1,5 @@
 # What-I-Liked.
-Blog post, articles which I read on my daily basis..
+Blog post, articles which I read on my daily basis.
 
 ### November 18, 2021
 
