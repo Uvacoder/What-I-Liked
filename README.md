@@ -1,6 +1,9 @@
 # What-I-Liked.
 Blog post, articles which I read on my daily basis.
 
+### November 30, 2021
+- https://hackernoon.com/top-3-coding-challenges-for-expert-level-react-developers
+
 ### November 18, 2021
 
 - https://medium.com/@indiedev/clean-architecture-in-frontend-react-redux-typescript-bd108ddd13f7
