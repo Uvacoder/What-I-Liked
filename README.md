@@ -1,6 +1,10 @@
 # What-I-Liked.
 Blog post, articles which I read on my daily basis.
 
+### December 19, 2021
+
+- https://a16z.com/2018/02/10/crypto-readings-resources/
+
 ### November 30, 2021
 - https://hackernoon.com/top-3-coding-challenges-for-expert-level-react-developers
 
