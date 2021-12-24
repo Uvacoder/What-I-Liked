@@ -1,6 +1,10 @@
 # What-I-Liked.
 Blog post, articles which I read on my daily basis.
 
+### December 25, 2021
+
+- https://medium.com/@nischal/you-are-the-average-of-5-people-around-you-27cc387070b7
+
 ### December 19, 2021
 
 - https://a16z.com/2018/02/10/crypto-readings-resources/
