@@ -1,4 +1,4 @@
-# What-I-Liked.
+# What-I-Liked
 Blog post, articles which I read on my daily basis.
 
 ### December 25, 2021
