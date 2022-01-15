@@ -1,6 +1,9 @@
 # What-I-Liked
 Blog post, articles which I read on my daily basis.
 
+### January 15, 2022
+- https://medium.com/swlh/nine-ways-on-how-can-you-stop-being-undervalued-15c1d00e5da0
+
 ### December 25, 2021
 
 - https://medium.com/@nischal/you-are-the-average-of-5-people-around-you-27cc387070b7
