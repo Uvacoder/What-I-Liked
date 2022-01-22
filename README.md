@@ -1,5 +1,13 @@
 # What-I-Liked
-Blog post, articles which I read on my daily basis.
+Blog post, articles which I read on daily basis.
+
+### January 22, 2022
+
+- https://medium.com/geekculture/10-saas-ideas-for-your-next-billion-dollar-startup-from-2022-to-2030-9be6ea5da8ab
+- https://entrepreneurshandbook.co/its-time-to-build-something-that-will-change-your-life-stop-wasting-time-fd01a9194a4
+- https://medium.com/swlh/use-your-weekends-to-build-not-escape-bd9200d7771e
+- https://towardsdev.com/learn-code-fast-with-the-feynman-technique-a21dda635054
+- https://medium.com/stackanatomy/react-architecture-patterns-for-your-projects-6f495448f04b
 
 ### January 15, 2022
 - https://medium.com/swlh/nine-ways-on-how-can-you-stop-being-undervalued-15c1d00e5da0
