@@ -1,6 +1,9 @@
 # What-I-Liked
 Blog post, articles which I read on daily basis.
 
+### January 25, 2022
+-https://eda.hashnode.dev/my-web3-journey-day-100-of-100daysofweb3
+
 ### January 22, 2022
 
 - https://medium.com/geekculture/10-saas-ideas-for-your-next-billion-dollar-startup-from-2022-to-2030-9be6ea5da8ab
