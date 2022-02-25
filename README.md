@@ -1,6 +1,11 @@
 # What-I-Liked
 Blog post, articles which I read on daily basis.
 
+### Feb 25, 2022
+
+- https://tr.af/6
+- https://tr.af/100
+
 ### January 25, 2022
 -https://eda.hashnode.dev/my-web3-journey-day-100-of-100daysofweb3
 
