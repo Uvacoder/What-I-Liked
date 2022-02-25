@@ -5,6 +5,8 @@ Blog post, articles which I read on daily basis.
 
 - https://tr.af/6
 - https://tr.af/100
+- https://javascript.plainenglish.io/how-to-make-an-extra-500-every-month-with-this-easy-side-hustle-bac6fd48cdfe
+- https://javascript.plainenglish.io/i-met-a-rich-programmer-he-gave-me-3-life-changing-pieces-of-advice-a3754d73a50c
 
 ### January 25, 2022
 -https://eda.hashnode.dev/my-web3-journey-day-100-of-100daysofweb3
