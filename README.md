@@ -1,6 +1,10 @@
 # What-I-Liked
 Blog post, articles which I read on daily basis.
 
+### March 05, 2022
+
+- https://monicalent.com/12x-startup/
+
 ### Feb 25, 2022
 
 - https://tr.af/6
