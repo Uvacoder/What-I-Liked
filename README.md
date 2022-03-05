@@ -4,6 +4,9 @@ Blog post, articles which I read on daily basis.
 ### March 05, 2022
 
 - https://monicalent.com/12x-startup/
+- https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/
+- https://monicalent.com/year-of-grind/
+- https://monicalent.com/blog/2020/04/21/software-developer-resume-tips/
 
 ### Feb 25, 2022
 
