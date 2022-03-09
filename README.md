@@ -1,5 +1,9 @@
-# What-I-Liked
+, What-I-Liked
 Blog post, articles which I read on daily basis.
+
+### March 09, 2022
+
+- https://blog.javisf.com/must-read-for-junior-developers#ckz5h4b4p0izpghs19wkg7lgd
 
 ### March 05, 2022
 
