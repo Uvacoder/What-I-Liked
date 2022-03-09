@@ -4,6 +4,7 @@ Blog post, articles which I read on daily basis.
 ### March 09, 2022
 
 - https://blog.javisf.com/must-read-for-junior-developers#ckz5h4b4p0izpghs19wkg7lgd
+- https://medium.com/swlh/javascript-reduce-with-examples-570f1b51e854
 
 ### March 05, 2022
 
