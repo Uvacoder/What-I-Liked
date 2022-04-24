@@ -1,4 +1,4 @@
-, What-I-Liked
+What-I-Liked
 Blog post, articles which I read on daily basis.
 
 ###April 18, 2022
