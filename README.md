@@ -1,8 +1,8 @@
 What-I-Liked
 Blog post, articles which I read on daily basis.
 
-###April 18, 2022
-B
+### April 18, 2022
+
 - https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d
 
 ### April 10, 2022 
