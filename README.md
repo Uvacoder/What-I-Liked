@@ -1,5 +1,9 @@
 What-I-Liked.
 
+### May 1st ,2022
+
+- https://louiebacaj.com/how-to-build-a-great-engineering-team-from-the-ground-up/
+- https://louiebacaj.com/why-i-am-reinventing-myself-again/
 
 ### April 18, 2022
 
