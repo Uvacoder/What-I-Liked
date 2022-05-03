@@ -2,6 +2,7 @@ What-I-Liked..
 
 ### May 03, 2022
 - https://medium.com/raghavbang/js-is-compiler-or-interpreter-language-ca22d8e20853
+- https://medium.com/google-design/google-photos-45b714dfbed1
 
 ### May 1st ,2022
 
