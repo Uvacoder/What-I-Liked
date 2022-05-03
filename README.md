@@ -1,5 +1,8 @@
 What-I-Liked..
 
+### May 03, 2022
+- https://medium.com/raghavbang/js-is-compiler-or-interpreter-language-ca22d8e20853
+
 ### May 1st ,2022
 
 - https://louiebacaj.com/how-to-build-a-great-engineering-team-from-the-ground-up/
