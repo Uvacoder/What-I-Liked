@@ -1,4 +1,4 @@
-What-I-Liked..
+What-I-Liked.
 
 ### May 03, 2022
 - https://medium.com/raghavbang/js-is-compiler-or-interpreter-language-ca22d8e20853
