@@ -1,5 +1,9 @@
 What-I-Liked.
 
+### May 17, 2022
+- https://deepu.tech/concurrency-in-modern-languages/
+- https://deepu.tech/concurrency-in-modern-languages-js/#:~:text=JavaScript%20has%20a%20concurrency%20model,languages%20like%20C%20and%20Java.
+
 ### May 03, 2022
 - https://medium.com/raghavbang/js-is-compiler-or-interpreter-language-ca22d8e20853
 - https://medium.com/google-design/google-photos-45b714dfbed1
