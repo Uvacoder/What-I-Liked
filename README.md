@@ -1,5 +1,8 @@
 What-I-Liked.
 
+### May 19, 2022
+- https://medium.com/@techwithmuskan/best-folder-structure-for-react-native-project-c6d7dd6dd494
+
 ### May 17, 2022
 - https://deepu.tech/concurrency-in-modern-languages/
 - https://deepu.tech/concurrency-in-modern-languages-js/#:~:text=JavaScript%20has%20a%20concurrency%20model,languages%20like%20C%20and%20Java.
