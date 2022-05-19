@@ -2,6 +2,7 @@ What-I-Liked.
 
 ### May 19, 2022
 - https://medium.com/@techwithmuskan/best-folder-structure-for-react-native-project-c6d7dd6dd494
+- https://uxplanet.org/10-lifesaving-html-css-tricks-for-designers-11bbf76729eb
 
 ### May 17, 2022
 - https://deepu.tech/concurrency-in-modern-languages/
