@@ -1,5 +1,9 @@
 What-I-Liked.
 
+### May 31, 2022
+
+- https://www.coindesk.com/markets/2021/08/02/the-node-the-first-step-to-making-sense-of-the-token-economy/
+
 ### May 19, 2022
 - https://medium.com/@techwithmuskan/best-folder-structure-for-react-native-project-c6d7dd6dd494
 - https://uxplanet.org/10-lifesaving-html-css-tricks-for-designers-11bbf76729eb
