@@ -1,5 +1,9 @@
 What-I-Liked.
 
+### June 2, 2022
+
+- https://consensys.net/blog/cryptoeconomic-research/30-token-design-and-launch-questions/
+
 ### May 31, 2022
 
 - https://www.coindesk.com/markets/2021/08/02/the-node-the-first-step-to-making-sense-of-the-token-economy/
