@@ -3,7 +3,7 @@ What-I-Liked.
 
 ### June 3, 2022
 - https://mirror.xyz/dhaiwat.eth/O5CK6Tjfv8uhl6FPbjT0yZ8LUwViDPWGYHdu9khRWpM
-- 
+- https://www.coinbase.com/learn/crypto-basics/what-is-a-token
 ### June 2, 2022
 
 - https://consensys.net/blog/cryptoeconomic-research/30-token-design-and-launch-questions/
