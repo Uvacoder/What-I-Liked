@@ -1,5 +1,9 @@
 What-I-Liked.
 
+### June 21, 2022
+
+- https://blog.openreplay.com/fetching-and-updating-data-with-react-query
+
 
 ### June 3, 2022
 - https://mirror.xyz/dhaiwat.eth/O5CK6Tjfv8uhl6FPbjT0yZ8LUwViDPWGYHdu9khRWpM
