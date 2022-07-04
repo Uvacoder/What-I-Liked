@@ -3,6 +3,7 @@ What-I-Liked.
 ### July 4, 2022
 
 - https://blog.maximeheckel.com/posts/building-a-design-system-from-scratch/
+- https://blog.maximeheckel.com/posts/learning-in-public/
 
 ### June 21, 2022
 
