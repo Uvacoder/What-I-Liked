@@ -1,5 +1,9 @@
 What-I-Liked.
 
+### July 4, 2022
+
+- https://blog.maximeheckel.com/posts/building-a-design-system-from-scratch/
+
 ### June 21, 2022
 
 - https://blog.openreplay.com/fetching-and-updating-data-with-react-query
