@@ -1,8 +1,8 @@
 What-I-Liked.
 
 ### July 5, 2022
-
-- https://sfagency.medium.com/2-things-ive-learned-over-20-years-of-working-from-home-19cd6423c189
+- https://blog.bitsrc.io/advanced-javascript-aspect-that-helped-me-get-better-at-coding-8d5c794e4392
+- https://melon-advantage-7aa.notion.site/From-going-bankrupt-to-earning-40-LPA-in-just-2-years-time-93e5aa3372e14407bf9e2bc31b0dce2a
 
 ### July 4, 2022
 
