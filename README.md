@@ -1,5 +1,9 @@
 What-I-Liked.
 
+### July 5, 2022
+
+- https://sfagency.medium.com/2-things-ive-learned-over-20-years-of-working-from-home-19cd6423c189
+
 ### July 4, 2022
 
 - https://blog.maximeheckel.com/posts/building-a-design-system-from-scratch/
