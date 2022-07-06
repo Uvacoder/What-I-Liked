@@ -1,5 +1,10 @@
 What-I-Liked.
 
+
+### July 6, 2022
+
+- https://jamesclear.com/first-principles
+
 ### July 5, 2022
 - https://blog.bitsrc.io/advanced-javascript-aspect-that-helped-me-get-better-at-coding-8d5c794e4392
 - https://melon-advantage-7aa.notion.site/From-going-bankrupt-to-earning-40-LPA-in-just-2-years-time-93e5aa3372e14407bf9e2bc31b0dce2a
