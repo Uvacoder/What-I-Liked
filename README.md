@@ -1,5 +1,9 @@
 What-I-Liked.
 
+### July 10, 2022
+
+- https://www.lydiahallie.io/talks/rendering-patterns
+
 
 ### July 6, 2022
 
