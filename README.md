@@ -1,5 +1,8 @@
 What-I-Liked.
 
+### July 11, 2022
+- https://medium.com/compendium/3-ways-of-rendering-on-the-web-4363864c859e
+
 ### July 10, 2022
 
 - https://www.lydiahallie.io/talks/rendering-patterns
