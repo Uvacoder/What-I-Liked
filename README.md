@@ -1,5 +1,8 @@
 What-I-Liked.
 
+### July 13, 2022
+- https://blog.commclassroom.org/mistakes-developers-make-on-the-job-search#write-comment
+
 ### July 12, 2022
 
 - https://sdremthix.medium.com/the-endless-effort-of-not-finishing-a-side-project-cc5597e60b83
