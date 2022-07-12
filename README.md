@@ -1,5 +1,9 @@
 What-I-Liked.
 
+### July 12, 2022
+
+- https://sdremthix.medium.com/the-endless-effort-of-not-finishing-a-side-project-cc5597e60b83
+
 ### July 11, 2022
 - https://medium.com/compendium/3-ways-of-rendering-on-the-web-4363864c859e
 
